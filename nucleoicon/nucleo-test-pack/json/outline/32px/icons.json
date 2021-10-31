@@ -1,0 +1,906 @@
+{
+  "icons": [
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "exchange,circle,transfer,connection,network,circuit,order,system,payment,agreement,nodes,market,plugin,modules,api,cryptocurrency,transactions",
+      "name": "transactions",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle cx=\"16\" cy=\"4\" r=\"3\" fill=\"none\" stroke=\"#212121\"></circle><circle cx=\"4.309\" cy=\"24.25\" r=\"3\" fill=\"none\" stroke=\"#212121\"></circle><circle cx=\"27.691\" cy=\"24.25\" r=\"3\" fill=\"none\" data-color=\"color-2\"></circle><path d=\"M9.251,5.829A13.487,13.487,0,0,0,3.108,21.517\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M25.91,26.645A13.447,13.447,0,0,1,9.263,29.189\" fill=\"none\" data-color=\"color-2\"></path><path d=\"M29.5,17.5A13.5,13.5,0,0,0,18.966,4.337\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "box,system,design,shape,cube,geometry,nodes,plugin,components,modules,api,add-on,extensions,cryptocurrency,blockchain,hexagons,sequence",
+      "name": "blockchain",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline points=\"2 6.5 9 10 16 6.5\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></polyline><line x1=\"9\" y1=\"10\" x2=\"9\" y2=\"18.5\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></line><polygon points=\"16 6.5 9 2.999 2 6.5 2 15 9 18.5 16 15 16 6.5\" fill=\"none\" stroke=\"#212121\"></polygon><polyline points=\"16 6.5 23 10 30 6.5\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></polyline><line x1=\"23\" y1=\"10\" x2=\"23\" y2=\"18.5\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></line><polygon points=\"30 6.5 23 2.999 16 6.5 16 15 23 18.5 30 15 30 6.5\" fill=\"none\" stroke=\"#212121\"></polygon><polyline points=\"9 18.5 16 22 23 18.5\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></polyline><line x1=\"16\" y1=\"22\" x2=\"16\" y2=\"30.5\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></line><polygon points=\"23 18.5 16 14.999 9 18.5 9 27 16 30.5 23 27 23 18.5\" fill=\"none\" data-color=\"color-2\"></polygon></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "data,stats,chart,report,statistics,analytics,bars,science,analysis,presentation,trending",
+      "name": "statistics",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"3.999\" y1=\"29\" x2=\"4\" y2=\"22\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"11.999\" y1=\"13\" x2=\"11.999\" y2=\"29\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"20.018\" y1=\"29\" x2=\"20\" y2=\"22\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"27.999\" y1=\"13\" x2=\"27.999\" y2=\"29\" fill=\"none\" stroke=\"#212121\"></line><polyline points=\"3 13 12 4 20 12 29 3\" fill=\"none\" data-color=\"color-2\"></polyline></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "science,smart,thinking,gear,mind,artificial,intelligence,logic,abstraction,prediction,philosophy",
+      "name": "logic",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M25,31V21.926A11.994,11.994,0,1,0,5,13v1L2.5,19.5,5,21v4a3,3,0,0,0,3,3h5v3\" fill=\"none\" stroke=\"#212121\"></path><circle cx=\"17\" cy=\"13\" r=\"4\" fill=\"none\" data-color=\"color-2\"></circle><line x1=\"17\" y1=\"9\" x2=\"17\" y2=\"7\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"19.828\" y1=\"10.172\" x2=\"21.243\" y2=\"8.757\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"21\" y1=\"13\" x2=\"23\" y2=\"13\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"19.828\" y1=\"15.828\" x2=\"21.243\" y2=\"17.243\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"17\" y1=\"17\" x2=\"17\" y2=\"19\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"14.172\" y1=\"15.828\" x2=\"12.757\" y2=\"17.243\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"13\" y1=\"13\" x2=\"11\" y2=\"13\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"14.172\" y1=\"10.172\" x2=\"12.757\" y2=\"8.757\" fill=\"none\" data-color=\"color-2\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "mouse,animal,nature,laboratory,mice,rat,rodent",
+      "name": "rat",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle cx=\"9.003\" cy=\"13.997\" r=\"0.997\" data-color=\"color-2\" data-stroke=\"none\" stroke=\"none\"></circle><path d=\"M23,29H20.5a2.5,2.5,0,0,1,0-5h8a2.5,2.5,0,0,0,0-5H27.053\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M19,6a17.883,17.883,0,0,0-8.395,2.082A4.985,4.985,0,0,0,7.129,5.129L5.508,12.12A17.977,17.977,0,0,0,1.719,19H27.053A8.985,8.985,0,0,0,19,6Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "baby,cute,infant,rest,night,child,newborn,sleeping,kids,nap,bedtime,asleep",
+      "name": "sleeping-baby",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle cx=\"16\" cy=\"25\" r=\"2\" fill=\"none\" data-color=\"color-2\"></circle><path d=\"M9.071,16.5a1.99,1.99,0,0,0,3.858,0\" fill=\"none\" data-color=\"color-2\"></path><path d=\"M19,16.5a1.991,1.991,0,0,0,3.859,0\" fill=\"none\" data-color=\"color-2\"></path><polyline points=\"25 1 30 1 26 6 31 6\" fill=\"none\" data-color=\"color-2\"></polyline><path d=\"M28,15a2.95,2.95,0,0,0-.668.081,11.986,11.986,0,0,0-22.664,0A2.95,2.95,0,0,0,4,15a3,3,0,0,0,0,6c.061,0,.117-.014.177-.018a11.986,11.986,0,0,0,23.646,0c.06,0,.116.018.177.018a3,3,0,0,0,0-6Z\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M16,7a3,3,0,1,0,2.121,5.121\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "baby,human,fertilization,pregnancy,pregnant,embryo,organism,birth,fetus",
+      "name": "embryo",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M10,1l.823,1.234a3,3,0,0,1-.1,3.464l-.617.824a3,3,0,0,0-.288,3.133l2.75,5.542\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></path><path d=\"M5,22H3a2,2,0,0,1-2-2V17a2,2,0,0,1,4,0H5v1\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M13,17a4,4,0,0,0-8,0H5\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></path><line x1=\"5\" y1=\"17\" x2=\"5\" y2=\"18\" fill=\"none\" stroke=\"#212121\"></line><path d=\"M9.079,18A7.955,7.955,0,0,0,8,22c0,3.314,3,6,7,6,7.351,0,11.325-5.066,11.921-11.32a6,6,0,0,0,4.052-6.253A6.068,6.068,0,0,0,25.1,5a5.993,5.993,0,0,0-4.146,10.418L17.993,16.6\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M19.828,19.828A4,4,0,0,1,13,17h.014a3.989,3.989,0,0,1,2.618-3.759l3.449-1.255-.215.078\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "anniversary,love,romantic,valentine,date,romance,wedding,lovers,flowers,bouquet",
+      "name": "bouquet",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M29,13.769a2.627,2.627,0,0,0-3.714,0,2.627,2.627,0,0,1-3.715,0,2.627,2.627,0,0,0-3.714,0,2.625,2.625,0,0,1-3.714,0,2.627,2.627,0,0,0-3.714,0,2.627,2.627,0,0,1-3.715,0,2.627,2.627,0,0,0-3.714,0L14,25h4Z\" fill=\"none\" stroke=\"#212121\"></path><polyline points=\"14 25 12 31 20 31 18 25\" fill=\"none\" stroke=\"#212121\"></polyline><path d=\"M8,4a3,3,0,0,0,0,6,2.968,2.968,0,0,0,1.467-.4\" fill=\"none\" data-color=\"color-2\"></path><path d=\"M24,4a3,3,0,0,1,0,6,2.968,2.968,0,0,1-1.467-.4\" fill=\"none\" data-color=\"color-2\"></path><path d=\"M15.223,3.346A8.291,8.291,0,0,1,21,1V5A5,5,0,0,1,11,5V1a5,5,0,0,1,5,5\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "food,love,romantic,heart,dish,plate,restaurant,tray,valentine,date,romance,dinner,lovers",
+      "name": "romantic-restaurant",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"8\" y1=\"20\" x2=\"24\" y2=\"20\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"16\" y1=\"31\" x2=\"16\" y2=\"20\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"31\" y1=\"18\" x2=\"31\" y2=\"31\" fill=\"none\" stroke=\"#212121\"></line><polyline points=\"31 25 23 25 23 31\" fill=\"none\" stroke=\"#212121\"></polyline><line x1=\"1\" y1=\"18\" x2=\"1\" y2=\"31\" fill=\"none\" stroke=\"#212121\"></line><polyline points=\"1 25 9 25 9 31\" fill=\"none\" stroke=\"#212121\"></polyline><path d=\"M21.881,2.157A3.74,3.74,0,0,0,16,2.768a3.741,3.741,0,0,0-5.882-.611,4.051,4.051,0,0,0,0,5.589L16,13.834l5.883-6.088A4.049,4.049,0,0,0,21.881,2.157Z\" fill=\"none\" data-color=\"color-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "sick,virus,allergy,cold,flu,sneezing,germs,coughing",
+      "name": "coughing",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"24.25\" y1=\"21.083\" x2=\"21\" y2=\"20\" fill=\"none\" stroke=\"inherit\" data-color=\"color-2\"></line><circle cx=\"28.5\" cy=\"22.5\" r=\"1.5\" data-color=\"color-2\" data-stroke=\"none\" stroke=\"none\"></circle><circle cx=\"20.5\" cy=\"30.5\" r=\"1.5\" data-color=\"color-2\" data-stroke=\"none\" stroke=\"none\"></circle><line x1=\"18\" y1=\"23\" x2=\"19.083\" y2=\"26.25\" fill=\"none\" stroke=\"inherit\" data-color=\"color-2\"></line><circle cx=\"25.5\" cy=\"27.5\" r=\"1.5\" data-color=\"color-2\" data-stroke=\"none\" stroke=\"none\"></circle><path d=\"M22.652,2a19.009,19.009,0,0,1-1.619,3.148L23,14l-4.5.5L18,17H12l3,4-1.211,2.422a4,4,0,0,1-5.367,1.789L4,23,2.342,26.317a3,3,0,0,0,1.341,4.025\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M2,5.575A10.965,10.965,0,0,0,5,6a10.975,10.975,0,0,0,8.485-4\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "data,security,preferences,edit,options,settings,privacy,terms,configurations",
+      "name": "data-settings",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle cx=\"25\" cy=\"25\" r=\"4\" fill=\"none\" data-color=\"color-2\"></circle><line x1=\"25\" y1=\"21\" x2=\"25\" y2=\"19\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"27.828\" y1=\"22.172\" x2=\"29.243\" y2=\"20.757\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"29\" y1=\"25\" x2=\"31\" y2=\"25\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"27.828\" y1=\"27.828\" x2=\"29.243\" y2=\"29.243\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"25\" y1=\"29\" x2=\"25\" y2=\"31\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"22.172\" y1=\"27.828\" x2=\"20.757\" y2=\"29.243\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"21\" y1=\"25\" x2=\"19\" y2=\"25\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"22.172\" y1=\"22.172\" x2=\"20.757\" y2=\"20.757\" fill=\"none\" data-color=\"color-2\"></line><polyline points=\"16 28 3 28 28 3 28 16\" fill=\"none\" stroke=\"#212121\"></polyline></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "bank,budget,cash,money,plant,coin,deposit,income,profit,savings,earnings,salary",
+      "name": "savings",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M13.279,17A7.967,7.967,0,0,1,2.721,17,7.991,7.991,0,0,1,16,23\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></path><path d=\"M18.721,17a7.967,7.967,0,0,0,10.558,0A7.991,7.991,0,0,0,16,23\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></path><circle cx=\"16\" cy=\"7\" r=\"6\" fill=\"none\" data-color=\"color-2\"></circle><line x1=\"16\" y1=\"5\" x2=\"16\" y2=\"9\" fill=\"none\" data-color=\"color-2\"></line><polygon points=\"10 23 22 23 21 31 11 31 10 23\" fill=\"none\" stroke=\"#212121\"></polygon></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "banking,bank,payment,card,credit,debit,wifi,contactless",
+      "name": "contactless-card",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M24.865,16.814a6.976,6.976,0,0,0,0-7.628\" fill=\"none\" stroke=\"inherit\" data-color=\"color-2\"></path><path d=\"M21.34,14.856a2.94,2.94,0,0,0,0-3.712\" fill=\"none\" stroke=\"inherit\" data-color=\"color-2\"></path><path d=\"M1,25V7A2,2,0,0,1,3,5H29a2,2,0,0,1,2,2V25a2,2,0,0,1-2,2H3A2,2,0,0,1,1,25Z\" fill=\"none\" stroke=\"#212121\"></path><line x1=\"6\" y1=\"22\" x2=\"18\" y2=\"22\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"22\" y1=\"22\" x2=\"26\" y2=\"22\" fill=\"none\" stroke=\"#212121\"></line><rect x=\"6\" y=\"10\" width=\"5\" height=\"4\" fill=\"none\" stroke=\"#212121\"></rect><circle cx=\"18\" cy=\"13\" r=\"1\" data-color=\"color-2\" data-stroke=\"none\" stroke=\"none\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "data,file,save,new,add,create,plus,archive,later",
+      "name": "save-for-later",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"27\" y1=\"1\" x2=\"27\" y2=\"9\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"31\" y1=\"5\" x2=\"23\" y2=\"5\" fill=\"none\" data-color=\"color-2\"></line><polyline points=\"18 5 1 5 1 31 27 31 27 14\" fill=\"none\" stroke=\"#212121\"></polyline><line x1=\"1\" y1=\"24\" x2=\"27\" y2=\"24\" fill=\"none\" stroke=\"#212121\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "glasses,hat,privacy,private,invisible,incognito,incognito mode,undercover,detective",
+      "name": "incognito",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polygon points=\"3 16 29 16 25 11 7 11 3 16\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></polygon><polyline points=\"7 11 9 2 23 2 25 11\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></polyline><circle cx=\"24\" cy=\"25\" r=\"5\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></circle><circle cx=\"8\" cy=\"25\" r=\"5\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></circle><path d=\"M19.32,23.287a4.926,4.926,0,0,0-6.64,0\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "play,music,band,rock,instrument,musician,musical,concert,drums,percussion",
+      "name": "drums",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M2,12V24c0,3.314,6.268,6,14,6s14-2.686,14-6V12\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></path><line x1=\"20\" y1=\"29.751\" x2=\"20\" y2=\"21.748\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></line><line x1=\"12\" y1=\"29.751\" x2=\"12\" y2=\"21.748\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></line><line x1=\"6\" y1=\"20.274\" x2=\"6\" y2=\"28.199\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></line><line x1=\"26\" y1=\"20.275\" x2=\"25.997\" y2=\"28.2\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></line><path d=\"M2,18.1C5.066,20.455,10.19,22,16,22s10.934-1.545,14-3.9\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></path><line x1=\"29\" y1=\"2\" x2=\"9\" y2=\"12\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"3\" y1=\"2\" x2=\"23\" y2=\"12\" fill=\"none\" data-color=\"color-2\"></line><path d=\"M24.941,7.384C28.031,8.484,30,10.143,30,12c0,3.314-6.268,6-14,6S2,15.314,2,12c0-1.857,1.969-3.516,5.059-4.616\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "tool,chart,edit,bars,settings,editing,photo,editor,contrast,level,configuration,tools,levels",
+      "name": "edit-levels",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polygon points=\"1 29 1 26 4 24 7 26 7 29 1 29\" fill=\"none\" stroke=\"#212121\"></polygon><polygon points=\"13 29 13 26 16 24 19 26 19 29 13 29\" fill=\"none\" stroke=\"#212121\"></polygon><polygon points=\"25 29 25 26 28 24 31 26 31 29 25 29\" fill=\"none\" stroke=\"#212121\"></polygon><line x1=\"2\" y1=\"20\" x2=\"2\" y2=\"9\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"14\" y1=\"20\" x2=\"14\" y2=\"11\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"26\" y1=\"20\" x2=\"26\" y2=\"5\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"30\" y1=\"20\" x2=\"30\" y2=\"3\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"6\" y1=\"20\" x2=\"6\" y2=\"3\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"10\" y1=\"20\" x2=\"10\" y2=\"16\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"18\" y1=\"20\" x2=\"18\" y2=\"3\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"22\" y1=\"20\" x2=\"22\" y2=\"11\" fill=\"none\" stroke=\"#212121\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "animal,blind,pet,accessibility,dog,walking,mobility,blindness,leash,leashed",
+      "name": "dog-leash",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"20.087\" y1=\"11.043\" x2=\"26.416\" y2=\"14.14\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></line><path d=\"M26,6,24,4l-4.143,7.457A3,3,0,0,1,17.235,13H8a3,3,0,0,0-3,3V30H9V25.554a2,2,0,0,1,.285-1.029L12,20l6.7,2.513A2,2,0,0,1,20,24.386V30h4V23l3-11h1a3,3,0,0,0,3-3V7Z\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></path><path d=\"M17,9A8,8,0,0,1,9,1\" fill=\"none\" data-color=\"color-2\"></path><path d=\"M1,9a4,4,0,0,0,4,4H8\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "environment,world,3D,physics,content,atom,virtual,reality,vr,experience,immersive,nuclear",
+      "name": "content-360deg",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M23.815,19A26.788,26.788,0,0,0,24,16c0-8.284-3.582-15-8-15S8,7.716,8,16s3.582,15,8,15c2.1,0,4-1.525,5.426-4\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M13,8.185A26.788,26.788,0,0,1,16,8c8.284,0,15,3.582,15,8s-6.716,8-15,8S1,20.418,1,16c0-2.1,1.525-4,4-5.426\" fill=\"none\" stroke=\"#212121\"></path><circle cx=\"16\" cy=\"16\" r=\"3\" fill=\"none\" data-color=\"color-2\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "technology,3D,dimension,cube,mobile,phone,object,virtual,augmented,reality,gaming,experience",
+      "name": "augmented-reality",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><rect x=\"3\" y=\"26\" width=\"26\" height=\"4\" rx=\"2\" fill=\"none\" stroke=\"#212121\"></rect><polyline points=\"13 18 9 18 3.277 27\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></polyline><polyline points=\"28.731 27 23 18 19 18\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></polyline><line x1=\"16\" y1=\"15\" x2=\"16\" y2=\"21\" fill=\"none\" data-color=\"color-2\"></line><polyline points=\"10 5 16 8 22 5\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></polyline><line x1=\"16\" y1=\"8\" x2=\"16\" y2=\"15\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></line><polygon points=\"22 5 16 2 10 5 10 12 16 15 22 12 22 5\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></polygon></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "education,translate,language,translation,translator,interpreter",
+      "name": "translation",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M17,8V3a2,2,0,0,0-2-2H3A2,2,0,0,0,1,3V14a2,2,0,0,0,2,2H4v2.667L8,16h3\" fill=\"none\" stroke=\"inherit\" data-color=\"color-2\"></path><path d=\"M15,25V14a2,2,0,0,1,2-2H29a2,2,0,0,1,2,2V25a2,2,0,0,1-2,2H28v2.667L24,27H17A2,2,0,0,1,15,25Z\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M24.825,24,24.4,22.4H21.62L21.187,24H18.644l2.794-8.6h3.088l2.83,8.6Zm-.9-3.5-.369-1.406q-.129-.469-.314-1.213T23,16.811q-.053.3-.208.984T22.1,20.5Z\" fill=\"#212121\" data-stroke=\"none\" stroke=\"none\"></path><path d=\"M13.685,6.453c-.44-.04-.83-.06-1.419-.06a7.85,7.85,0,0,1-.68,1.929,7.4,7.4,0,0,1-1.109,1.619,9.6,9.6,0,0,0,3.428,1.209,6.426,6.426,0,0,0-.99,1.839A12.35,12.35,0,0,1,9.107,11.17a12.776,12.776,0,0,1-3.978,1.839A5.793,5.793,0,0,0,4.17,11.24,10.869,10.869,0,0,0,7.718,9.931,8.7,8.7,0,0,1,6.429,8.1a8.77,8.77,0,0,1-.69-1.709c-.59,0-.929.02-1.429.06V4.644a12.321,12.321,0,0,0,1.449.07H7.968v-.6a3.017,3.017,0,0,0-.06-.619H9.917a3.068,3.068,0,0,0-.06.609v.61h2.378a12.226,12.226,0,0,0,1.45-.07Zm-6.027-.06a5.7,5.7,0,0,0,1.4,2.419,5.645,5.645,0,0,0,1.25-2.419Z\" data-color=\"color-2\" data-stroke=\"none\" stroke=\"none\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "industry,technology,robot,delivery,logistics,warehouse,arm,distribution,production,automated,manufacturing,supply,packing",
+      "name": "automated-logistics",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"26\" y1=\"1\" x2=\"26\" y2=\"7\" fill=\"none\" data-color=\"color-2\"></line><polyline points=\"31 15 31 11 26 7 21 11 21 15\" fill=\"none\" data-color=\"color-2\"></polyline><line x1=\"1\" y1=\"31\" x2=\"31\" y2=\"31\" fill=\"none\" stroke=\"#212121\"></line><polyline points=\"21 31 21 21 31 21 31 31\" fill=\"none\" stroke=\"#212121\"></polyline><polyline points=\"1 31 1 17 15 17 15 31\" fill=\"none\" stroke=\"#212121\"></polyline><line x1=\"6\" y1=\"21\" x2=\"10\" y2=\"21\" fill=\"none\" stroke=\"#212121\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "new,business,office,building,city,construction,skyscraper,apartment,enterprise,corporation,headquarters,urban,town,modern",
+      "name": "new-construction",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline points=\"6 31 1 31 1 18 6 18\" fill=\"none\" stroke=\"#212121\"></polyline><line x1=\"11\" y1=\"22\" x2=\"14\" y2=\"22\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"11\" y1=\"26\" x2=\"14\" y2=\"26\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"11\" y1=\"18\" x2=\"14\" y2=\"18\" fill=\"none\" data-color=\"color-2\"></line><polyline points=\"17 9 17 2 31 7 31 31 6 31 6 13 19 13 19 30.667\" fill=\"none\" stroke=\"#212121\"></polyline><line x1=\"23\" y1=\"26\" x2=\"23\" y2=\"9\" fill=\"none\" data-color=\"color-2\"></line><line x1=\"27\" y1=\"26\" x2=\"27\" y2=\"11\" fill=\"none\" data-color=\"color-2\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "drawing,construction,design,development,architecture,project,creative,blueprint,architect",
+      "name": "blueprint",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline points=\"10 21 10 24 22 24 22 9 5 9 5 24\" fill=\"none\" data-color=\"color-2\"></polyline><path d=\"M31,24V5a4,4,0,0,0-4-4H26V20h.849a4.1,4.1,0,0,1,4.068,3.173A4,4,0,0,1,27,28H1V5H23\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></path><polyline points=\"14 9 14 16 10 16\" fill=\"none\" data-color=\"color-2\"></polyline></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "guide,list,reminder,collection,favorites,flag,marked,saved,banner,wishlist,documentation,bookmarks,favourites",
+      "name": "saved-items",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M26,2h1a3,3,0,0,1,3,3V27a3,3,0,0,1-3,3H5a3,3,0,0,1-3-3V5A3,3,0,0,1,5,2H6\" fill=\"none\" stroke=\"#212121\"></path> <polygon points=\"22 18 16 13 10 18 10 2 22 2 22 18\" fill=\"none\" data-color=\"color-2\"></polygon></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "application,extension,app,system,design,geometry,shapes,widget,store,components,modules,abstract,addon,framework",
+      "name": "app-store",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><rect x=\"3\" y=\"3\" width=\"11\" height=\"11\" rx=\"2\" fill=\"none\" stroke=\"#212121\"></rect><rect data-color=\"color-2\" x=\"18.356\" y=\"3.356\" width=\"10.288\" height=\"10.288\" rx=\"1.871\" transform=\"translate(0.873 19.107) rotate(-45)\" fill=\"none\"></rect><rect x=\"18\" y=\"18\" width=\"11\" height=\"11\" rx=\"2\" fill=\"none\" stroke=\"#212121\"></rect><rect x=\"3\" y=\"18\" width=\"11\" height=\"11\" rx=\"2\" fill=\"none\" stroke=\"#212121\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "process,design,geometry,style,illustration,shapes,graphics,illustrator,creative,components,apps,abstract,visual,designer",
+      "name": "geometry",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle cx=\"25\" cy=\"11\" r=\"6\" fill=\"none\" data-color=\"color-2\"></circle> <rect x=\"8\" y=\"20\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#212121\"></rect> <polygon points=\"2 14 8 4 14 14 2 14\" fill=\"none\" stroke=\"#212121\"></polygon></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "power,healthy,fitness,exercise,gym,workout,protein,strength,arm,muscle,bodybuilding,bicep,force",
+      "name": "bicep",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M8.818,9.182a28.6,28.6,0,0,0,.351,5.079c.506,2.239,2.71,4.575,3.11,5.6,2.164-2.564,9.714-5.46,14.353-3.027,5.319,3.434,4.869,9.2,1.4,11.718a17.706,17.706,0,0,1-8.942,2.431c-3.58.09-6.164-.282-7.289-.845-1.858.238-5.782.21-7.385-1.422-1.1-1.119-3.347-7.542-2-14.394C3.846,7.09,6.231,1,8.807,1c1.262,0,3.313.042,4.27.818s.269,3.092-.031,3.409a1.642,1.642,0,0,1,.328,2.205A6.265,6.265,0,0,1,10.455,9.3,3.888,3.888,0,0,1,8.818,9.182Z\" fill=\"none\" stroke=\"#212121\"></path> <path d=\"M15.637,24.182a12.625,12.625,0,0,0,9.545-1.364\" fill=\"none\" data-color=\"color-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "position,stats,sport,chart,graph,report,performance,seo,rating,ranking,rank,poll",
+      "name": "ranking",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline points=\"8 17 12 9 21 16 30 3\" fill=\"none\" stroke=\"#212121\"></polyline> <line x1=\"2\" y1=\"29\" x2=\"6\" y2=\"21\" fill=\"none\" stroke=\"#212121\"></line> <polyline points=\"2 17 8 17 21 25 30 18\" fill=\"none\" data-color=\"color-2\"></polyline></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "agreement,deal,handshake,privacy,partnership,policy",
+      "name": "privacy-policy",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle cx=\"5.5\" cy=\"6.5\" r=\"3.5\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></circle> <path d=\"M14,21c-5.292-2.312-5-7-9-7a4.141,4.141,0,0,0-4,4V29H9V22\" fill=\"none\" stroke=\"#212121\"></path> <path d=\"M18,21c5.292-2.312,5-7,9-7a4.141,4.141,0,0,1,4,4V29H23V22\" fill=\"none\" data-color=\"color-2\"></path> <circle cx=\"26.5\" cy=\"6.5\" r=\"3.5\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "select,all,list,check,filter,filtering,mark,todo,completed,done,checked",
+      "name": "check-all",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline points=\"2 20 8 25 24 4\" fill=\"none\" data-color=\"color-2\"></polyline> <line x1=\"31\" y1=\"11\" x2=\"27\" y2=\"11\" fill=\"none\" stroke=\"#212121\"></line> <line x1=\"31\" y1=\"18\" x2=\"21\" y2=\"18\" fill=\"none\" stroke=\"#212121\"></line> <line x1=\"31\" y1=\"25\" x2=\"16\" y2=\"25\" fill=\"none\" stroke=\"#212121\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "layer,stack,picture,copy,gallery,image,photo,photos,pictures,img,thumbnails",
+      "name": "img-stack",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><rect x=\"1\" y=\"6\" width=\"30\" height=\"24\" fill=\"none\" stroke=\"#212121\"></rect> <line x1=\"7\" y1=\"2\" x2=\"25\" y2=\"2\" fill=\"none\" data-color=\"color-2\"></line> <polygon points=\"8 25 20 14 27 25 8 25\" fill=\"none\" data-color=\"color-2\"></polygon> <circle cx=\"8.5\" cy=\"13.5\" r=\"2.5\" fill=\"none\" data-color=\"color-2\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "glass,bottle,drink,beverage,soft,coke,soda",
+      "name": "soft-drink",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M23.129,31H16.871a2,2,0,0,1-1.995-1.867L14,16H26l-.876,13.133A2,2,0,0,1,23.129,31Z\" fill=\"none\" data-color=\"color-2\"></path> <path d=\"M16.074,12C15.314,8.926,14,6.276,14,5V1H10V5c0,1.8-2.6,6.31-2.6,10.9s.635,6.187.635,8.382-.846,3.341-.846,4.59A2.057,2.057,0,0,0,9,31h2\" fill=\"none\" stroke=\"#212121\"></path> <line x1=\"14.533\" y1=\"24\" x2=\"25.467\" y2=\"24\" fill=\"none\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "food,movie,snack,popcorn,cinema",
+      "name": "popcorn",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polygon points=\"28 10 4 10 7 30 25 30 28 10\" fill=\"none\" stroke=\"#212121\"></polygon> <path d=\"M26,6a3.979,3.979,0,0,0-6.575-3.037,3.969,3.969,0,0,0-6.85,0A3.979,3.979,0,0,0,6,6\" fill=\"none\" data-color=\"color-2\"></path> <line x1=\"12\" y1=\"30\" x2=\"11\" y2=\"10\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></line> <line x1=\"20\" y1=\"30\" x2=\"21\" y2=\"10\" fill=\"none\" stroke=\"#212121\" data-cap=\"butt\" stroke-linecap=\"butt\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "food,bowl,rice,cereal,porridge,grains",
+      "name": "rice",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M10.65,30h10.7A14.991,14.991,0,0,0,31,16H1A14.991,14.991,0,0,0,10.65,30Z\" fill=\"none\" stroke=\"#212121\"></path> <path d=\"M29,12a3.993,3.993,0,0,0-7.243-2.326A3.943,3.943,0,0,0,16.1,7.5,3.967,3.967,0,0,0,9.239,8.685,4,4,0,0,0,3,12\" fill=\"none\" stroke=\"inherit\" data-color=\"color-2\"></path> <line x1=\"26.764\" y1=\"8.413\" x2=\"31\" y2=\"1\" fill=\"none\" stroke=\"inherit\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></line> <line x1=\"23.517\" y1=\"8.289\" x2=\"25\" y2=\"2\" fill=\"none\" stroke=\"inherit\" data-cap=\"butt\" data-color=\"color-2\" stroke-linecap=\"butt\"></line> <circle cx=\"6\" cy=\"4\" r=\"1\" fill=\"#212121\" data-stroke=\"none\" stroke=\"none\"></circle> <circle cx=\"17\" cy=\"2\" r=\"1\" fill=\"#212121\" data-stroke=\"none\" stroke=\"none\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "delete,remove,schedule,time,volume,minus,alarm,timer,sound,alert,cancel,disabled,bell,event,mute,negative,quiet,silence",
+      "name": "alarm-disable",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-cap=\"butt\" d=\"M13,28a3,3,0,0,0,6,0\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></path><path data-cap=\"butt\" d=\"M25.117,6.885A10,10,0,0,0,6,11v5c0,4-3,9-3,9H7\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></path><path d=\"M12,25H29s-3-5-3-9V11\" fill=\"none\" stroke=\"#212121\"></path><line data-color=\"color-2\" x1=\"2\" y1=\"30\" x2=\"30\" y2=\"2\" fill=\"none\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "zoom,glass,view,search,find,lens,magnify,explore,lookup,magnifier,magnifying",
+      "name": "zoom",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-color=\"color-2\" x1=\"29\" y1=\"29\" x2=\"20.777\" y2=\"20.777\" fill=\"none\"></line> <circle cx=\"13\" cy=\"13\" r=\"11\" fill=\"none\" stroke=\"#212121\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "switch,ui,interface,control,preferences,options,settings,configuration,setting,switcher,switches,toggle,tuner",
+      "name": "toggle",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><rect x=\"1\" y=\"7\" width=\"30\" height=\"18\" rx=\"9\" ry=\"9\" fill=\"none\" stroke=\"#212121\"></rect> <circle data-color=\"color-2\" cx=\"10\" cy=\"16\" r=\"9\" fill=\"none\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "navigation,gps,location,energy,environment,travel,earth,globe,world,map,planet,maps",
+      "name": "world",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline data-cap=\"butt\" data-color=\"color-2\" points=\"6.977 4.016 9.238 6.654 11.105 8.989 10.917 12.197 7.182 12.888 4.55 16 5.777 18.547 6.962 20.67 9.756 22.833 7.926 25.61 5.471 26.683\" fill=\"none\" stroke-linecap=\"butt\"></polyline><polyline data-cap=\"butt\" data-color=\"color-2\" points=\"28.059 7.078 25.836 8.49 22.991 8.461 20.827 9.323 18.912 8.002 18.267 5.574 16.484 3.7 14.609 2.364 14.569 1.067\" fill=\"none\" stroke-linecap=\"butt\"></polyline><polygon data-color=\"color-2\" points=\"25.688 17.23 25.381 19.929 23.471 21.873 21.778 23.787 19.759 25.31 17.128 25.858 15.722 22.977 17.018 20.075 16.193 17.199 17.378 14.085 20.793 13.45 23.68 14.672 25.688 17.23\" fill=\"none\"></polygon><circle cx=\"16\" cy=\"16\" r=\"15\" fill=\"none\" stroke=\"#212121\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "browser,layout,app,tab,design,internet,web,development,website,mockup,site,wireframe,webpage",
+      "name": "wireframe",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" data-color=\"color-2\" x1=\"2\" y1=\"9\" x2=\"30\" y2=\"9\" fill=\"none\" stroke-linecap=\"butt\"></line> <line data-cap=\"butt\" data-color=\"color-2\" x1=\"10\" y1=\"9\" x2=\"10\" y2=\"30\" fill=\"none\" stroke-linecap=\"butt\"></line> <path d=\"M27,30H5a3,3,0,0,1-3-3V5A3,3,0,0,1,5,2H27a3,3,0,0,1,3,3V27A3,3,0,0,1,27,30Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "sport,snow,winter,games,olympic,boarding,snowboard,olympics",
+      "name": "snowboarding",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline points=\"5 6 14 8 20 11 26 17\" fill=\"none\" stroke=\"#212121\"></polyline> <circle cx=\"20\" cy=\"4\" r=\"3\" fill=\"none\" stroke=\"#212121\"></circle> <line data-color=\"color-2\" x1=\"2\" y1=\"28\" x2=\"29\" y2=\"30\" fill=\"none\"></line> <path data-cap=\"butt\" d=\"M14,8l-3.777,6.8a2,2,0,0,0,1.2,2.894l3.616,1.033a1,1,0,0,1,.687,1.237L14,26\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></path> <path d=\"M19.023,19l2.142.72a1,1,0,0,1,.662,1.144L21,25\" fill=\"none\" stroke=\"#212121\"></path> <line data-cap=\"butt\" x1=\"20\" y1=\"11\" x2=\"17\" y2=\"16\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "arrow,direction,top,up,cloud,data,file,input,save,share,storage,sync,transfer,backup,ftp,hosting,import,server,upload,folder,document,paper,item",
+      "name": "upload-file",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" data-color=\"color-2\" x1=\"16\" y1=\"23\" x2=\"16\" y2=\"2\" fill=\"none\" stroke-linecap=\"butt\"></line><polyline data-color=\"color-2\" points=\"10 8 16 2 22 8\" fill=\"none\"></polyline><polyline points=\"11 15 6 15 2 30 30 30 26 15 21 15\" fill=\"none\" stroke=\"#212121\"></polyline></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "delete,remove,can,waste,garbage,recycle,recycling,bin,trash,dump,dustbin,junk,rubbish,trashcan",
+      "name": "trash-can",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M27,10,25.259,28.284A3,3,0,0,1,22.272,31H9.728a3,3,0,0,1-2.987-2.716L5,10\" fill=\"none\" stroke=\"#212121\"></path><line data-color=\"color-2\" x1=\"30\" y1=\"6\" x2=\"2\" y2=\"6\" fill=\"none\"></line><path data-cap=\"butt\" data-color=\"color-2\" d=\"M11,6V1H21V6\" fill=\"none\" stroke-linecap=\"butt\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "arrow,progress,version,24h,availability,available,career,clock,daily,day,every,freelance,freelancer,monthly,schedule,weekly,yearly,time,watch,wait,alarm,timer,alert,appointment,countdown,track,event,tracking,deadline,hour,history",
+      "name": "time-machine",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline data-color=\"color-2\" points=\"16 7 16 16 25 16\" fill=\"none\"></polyline><path data-cap=\"butt\" d=\"M2.618,22.783A15.005,15.005,0,1,0,1,16\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></path><polyline points=\"3.617 30.78 2.617 22.78 10.617 23.78\" fill=\"none\" stroke=\"#212121\"></polyline></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "clock,schedule,time,watch,furniture,alarm,timer,alert,track,event,tracking,deadline,hour,history",
+      "name": "time-clock",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" data-color=\"color-2\" fill=\"none\" x1=\"16\" y1=\"1\" x2=\"16\" y2=\"6\" stroke-linecap=\"butt\"></line> <line data-cap=\"butt\" data-color=\"color-2\" fill=\"none\" x1=\"31\" y1=\"16\" x2=\"26\" y2=\"16\" stroke-linecap=\"butt\"></line> <line data-cap=\"butt\" data-color=\"color-2\" fill=\"none\" x1=\"16\" y1=\"31\" x2=\"16\" y2=\"26\" stroke-linecap=\"butt\"></line> <line data-cap=\"butt\" data-color=\"color-2\" fill=\"none\" x1=\"1\" y1=\"16\" x2=\"6\" y2=\"16\" stroke-linecap=\"butt\"></line> <circle fill=\"none\" stroke=\"#212121\" cx=\"16\" cy=\"16\" r=\"15\"></circle> <polyline data-color=\"color-2\" fill=\"none\" points=\" 10,8 16,16 22,16 \"></polyline></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "interface,organize,shopping,price,discount,ecommerce,sale,category,label,tag,store,attribute",
+      "name": "tag",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M20.364,29.121l8.757-8.757a3,3,0,0,0,0-4.243L15,2H2V15L16.121,29.121A3,3,0,0,0,20.364,29.121Z\" fill=\"none\" stroke=\"#212121\"></path> <circle data-color=\"color-2\" cx=\"10\" cy=\"10\" r=\"3\" fill=\"none\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "sunglasses,emoticon,smiley,cheerful,happy,smile,cool",
+      "name": "smiling-face-sunglasses",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle cx=\"16\" cy=\"16\" r=\"15\" fill=\"none\" stroke=\"#212121\"></circle> <path data-color=\"color-2\" d=\"M21.2,22A6,6,0,0,1,10.8,22\" fill=\"none\" stroke=\"inherit\"></path> <path data-color=\"color-2\" data-stroke=\"none\" d=\"M9.64,9A4.534,4.534,0,0,0,5.608,11.25,4.483,4.483,0,0,0,7.265,17.4a4.545,4.545,0,0,0,6.187-1.646l1.578-2.714a1.025,1.025,0,0,1,1.94,0l1.578,2.714A4.545,4.545,0,0,0,24.735,17.4a4.483,4.483,0,0,0,1.657-6.146A4.534,4.534,0,0,0,22.36,9Z\" fill-rule=\"evenodd\" stroke=\"none\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "holidays,object,emoticon,smiley,danger,dead,death,head,poison,skeleton,skull",
+      "name": "skull",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"12\" y1=\"31\" x2=\"12\" y2=\"27\" fill=\"none\" stroke=\"#212121\"></line> <line x1=\"16\" y1=\"31\" x2=\"16\" y2=\"27\" fill=\"none\" stroke=\"#212121\"></line> <line x1=\"20\" y1=\"31\" x2=\"20\" y2=\"27\" fill=\"none\" stroke=\"#212121\"></line> <circle data-color=\"color-2\" cx=\"10\" cy=\"15\" r=\"3\" fill=\"none\"></circle> <circle data-color=\"color-2\" cx=\"22\" cy=\"15\" r=\"3\" fill=\"none\"></circle> <path d=\"M29,14A13,13,0,1,0,8,24.233V29a2,2,0,0,0,2,2H22a2,2,0,0,0,2-2V24.233A12.968,12.968,0,0,0,29,14Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "file,post,folder,document,text,note,report,page,paper,item,draft,single,letter,content,sheet,folded,article,blog",
+      "name": "file-text",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline data-cap=\"butt\" fill=\"none\" stroke=\"#212121\" points=\"21,1 21,9 29,9 \" stroke-linecap=\"butt\"></polyline> <polygon fill=\"none\" stroke=\"#212121\" points=\"21,1 3,1 3,31 29,31 29,9 \"></polygon> <line data-color=\"color-2\" fill=\"none\" x1=\"9\" y1=\"22\" x2=\"23\" y2=\"22\"></line> <line data-color=\"color-2\" fill=\"none\" x1=\"9\" y1=\"16\" x2=\"23\" y2=\"16\"></line> <line data-color=\"color-2\" fill=\"none\" x1=\"9\" y1=\"10\" x2=\"15\" y2=\"10\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "user,profile,account,avatar,contact,woman,man,person,users,member,human,friend,follower",
+      "name": "profile",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path fill=\"none\" stroke=\"#212121\" d=\"M19,20h-6 c-4.971,0-9,4.029-9,9v0c0,0,4.5,2,12,2s12-2,12-2v0C28,24.029,23.971,20,19,20z\"></path><path data-color=\"color-2\" fill=\"none\" d=\"M9,8c0-3.866,3.134-7,7-7 s7,3.134,7,7s-3.134,8-7,8S9,11.866,9,8z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "files,share,connection,social,user,network,sharing,folder,document,format,profile,account,connect,paper,users,member,shared",
+      "name": "file-shared",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><rect x=\"3\" y=\"1\" width=\"26\" height=\"30\" fill=\"none\" stroke=\"#212121\"></rect><circle data-color=\"color-2\" cx=\"12\" cy=\"12\" r=\"3\" fill=\"none\"></circle><circle data-color=\"color-2\" cx=\"20.5\" cy=\"10.5\" r=\"2.5\" fill=\"none\"></circle><path data-color=\"color-2\" d=\"M12,18a6,6,0,0,0-6,6H18A6,6,0,0,0,12,18Z\" fill=\"none\"></path><path data-color=\"color-2\" d=\"M21,21h5a5.5,5.5,0,0,0-8-4.387\" fill=\"none\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "interface,control,preferences,tool,system,building,edit,options,settings,filter,diy,adjust,adjustment,option,project,configuration,configure,gear,parameter,parameters,setting,setup,tools,build,engine,repair,screwdriver,wrench",
+      "name": "settings",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-color=\"color-2\" d=\"M23.479,18.479l5.278,5.278a4.242,4.242,0,0,1,0,6h0a4.242,4.242,0,0,1-6,0l-4.945-4.945\" fill=\"none\"></path> <polyline data-cap=\"butt\" data-color=\"color-2\" points=\"14.639 12.639 5 3 2 6 11.501 15.501\" fill=\"none\" stroke-linecap=\"butt\"></polyline> <path d=\"M30.634,5.366,27,9,23,5l3.634-3.634a6.49,6.49,0,0,0-8.368,7.965L1.652,24.484a2,2,0,0,0-.066,2.892l3.038,3.038a2,2,0,0,0,2.892-.066L22.669,13.734a6.487,6.487,0,0,0,7.965-8.368Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "control,preferences,tool,system,edit,options,settings,filter,adjust,adjustment,option,wheel,configuration,configure,gear,parameter,parameters,setting,setup,tools,engine,cogwheel",
+      "name": "cogwheel",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle data-color=\"color-2\" cx=\"16\" cy=\"16\" r=\"4\" fill=\"none\"></circle> <path d=\"M31,18V14l-4.306-.538a10.915,10.915,0,0,0-1.339-3.227l2.666-3.427L25.192,3.979,21.765,6.645a10.915,10.915,0,0,0-3.227-1.339L18,1H14l-.538,4.306a10.915,10.915,0,0,0-3.227,1.339L6.808,3.979,3.979,6.808l2.666,3.427a10.915,10.915,0,0,0-1.339,3.227L1,14v4l4.306.538a10.915,10.915,0,0,0,1.339,3.227L3.979,25.192l2.829,2.829,3.427-2.666a10.915,10.915,0,0,0,3.227,1.339L14,31h4l.538-4.306a10.915,10.915,0,0,0,3.227-1.339l3.427,2.666,2.829-2.829-2.666-3.427a10.915,10.915,0,0,0,1.339-3.227Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "communication,send,email,mail,message,messages,contact,write,paper,letter,news,fly,airplane,flight,plane,sending",
+      "name": "send-message",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" data-color=\"color-2\" x1=\"30\" y1=\"2\" x2=\"14\" y2=\"18\" fill=\"none\" stroke-linecap=\"butt\"></line> <polygon points=\"30 2 21 30 14 18 2 11 30 2\" fill=\"none\" stroke=\"#212121\"></polygon></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "arrow,forward,right,rotate,direction,keyboard,move,navigation,out,position,next,onward,onwards,media,clockwise,picture,image,photo,multimedia",
+      "name": "rotate-right",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-color=\"color-2\" d=\"M16,7l5-5H11a8.024,8.024,0,0,0-8,8v5\" fill=\"none\"></path><rect x=\"11\" y=\"12\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#212121\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "communication,conversation,talk,contact,mobile,phone,telephone,call,ringing,calling",
+      "name": "phone-call",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-color=\"color-2\" d=\"M18,2A12,12,0,0,1,30,14\" fill=\"none\"></path> <path data-color=\"color-2\" d=\"M24,14a6,6,0,0,0-6-6\" fill=\"none\"></path> <path d=\"M20.693,19.293l-2.282,2.853a24.077,24.077,0,0,1-8.557-8.557l2.853-2.282a1.939,1.939,0,0,0,.56-2.3l-2.6-5.855A1.939,1.939,0,0,0,8.407,2.062L3.457,3.346A1.95,1.95,0,0,0,2.018,5.5,28.761,28.761,0,0,0,26.5,29.982a1.95,1.95,0,0,0,2.153-1.439l1.284-4.95a1.939,1.939,0,0,0-1.089-2.258l-5.855-2.6A1.939,1.939,0,0,0,20.693,19.293Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "animal,nature,emoticon,smiley,penguin",
+      "name": "penguin",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle data-color=\"color-2\" cx=\"17.986\" cy=\"10.986\" r=\"3.986\" fill=\"none\" stroke=\"inherit\"></circle> <polygon data-color=\"color-2\" data-stroke=\"none\" points=\"26 10 31 13 26 17 26 10\" stroke=\"none\"></polygon> <path data-cap=\"butt\" d=\"M26,18H25a8,8,0,0,0-8,8v5\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></path> <path d=\"M18,31H2s4-5,4-10V11A10,10,0,0,1,16,1h0A10,10,0,0,1,26,11V23A8,8,0,0,1,18,31Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "file,communication,post,document,note,degree,diploma,report,paper,draft,news,parchment,article,blog",
+      "name": "news",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M3,18H1v9a2.946,2.946,0,0,0,3,3\" fill=\"none\" stroke=\"#212121\"></path> <path d=\"M7,2V27a2.946,2.946,0,0,1-3,3H27a2.946,2.946,0,0,0,3-3V2Z\" fill=\"none\" stroke=\"#212121\"></path> <rect data-color=\"color-2\" x=\"12\" y=\"7\" width=\"13\" height=\"7\" fill=\"none\"></rect> <line data-color=\"color-2\" x1=\"25\" y1=\"24\" x2=\"12\" y2=\"24\" fill=\"none\"></line> <line data-color=\"color-2\" x1=\"25\" y1=\"19\" x2=\"12\" y2=\"19\" fill=\"none\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "arrow,top,up,upwards,window,export,start,application,browser,app,fire,new,open,tab",
+      "name": "open-in-browser",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" data-color=\"color-2\" x1=\"16\" y1=\"31\" x2=\"16\" y2=\"12\" fill=\"none\" stroke-linecap=\"butt\"></line><polyline data-color=\"color-2\" points=\"23 19 16 12 9 19\" fill=\"none\"></polyline><path d=\"M9,25H4a3,3,0,0,1-3-3V5A3,3,0,0,1,4,2H28a3,3,0,0,1,3,3V22a3,3,0,0,1-3,3H23\" fill=\"none\" stroke=\"#212121\"></path><line x1=\"1\" y1=\"7\" x2=\"31\" y2=\"7\" fill=\"none\" stroke=\"#212121\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "glasses,emoticon,smiley,cheerful,happy,smile,geek,nerd,nerdy",
+      "name": "smiling-face-glasses",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle data-color=\"color-2\" cx=\"10\" cy=\"13\" r=\"4\" fill=\"none\" stroke=\"inherit\"></circle> <circle data-color=\"color-2\" cx=\"22\" cy=\"13\" r=\"4\" fill=\"none\" stroke=\"inherit\"></circle> <circle cx=\"16\" cy=\"16\" r=\"15\" fill=\"none\" stroke=\"#212121\"></circle> <path data-color=\"color-2\" data-stroke=\"none\" d=\"M16,26a6,6,0,0,0,6-6H10A6,6,0,0,0,16,26Z\" stroke=\"none\"></path> <path data-cap=\"butt\" data-color=\"color-2\" d=\"M14,13a2,2,0,0,1,4,0\" fill=\"none\" stroke=\"inherit\" stroke-linecap=\"butt\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "education,school,science,healthcare,health,medical,biology,laboratory,microscope,research,virus",
+      "name": "microscope",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"18.192\" y1=\"15.054\" x2=\"16.692\" y2=\"12.456\" fill=\"none\" stroke=\"#212121\"></line><polygon points=\"8.594 4.429 13.79 1.43 19.29 10.956 16.692 12.456 14.093 13.956 8.594 4.429\" fill=\"none\" stroke=\"#212121\"></polygon><path data-cap=\"butt\" d=\"M6.693,23.772,5.4,21.829A9,9,0,0,1,8.433,9.243h0l7.422-4.236\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></path><line data-color=\"color-2\" x1=\"16.991\" y1=\"22.675\" x2=\"25.522\" y2=\"17.75\" fill=\"none\"></line><path d=\"M28,31H4V28.5a5.5,5.5,0,0,1,11,0L14.945,31\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "navigation,lines,list,bars,gallery,hamburger,menu,options,settings,burger",
+      "name": "menu",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-color=\"color-2\" fill=\"none\" x1=\"2\" y1=\"16\" x2=\"30\" y2=\"16\"></line> <line fill=\"none\" stroke=\"#212121\" x1=\"16\" y1=\"7\" x2=\"30\" y2=\"7\"></line> <line fill=\"none\" stroke=\"#212121\" x1=\"2\" y1=\"25\" x2=\"16\" y2=\"25\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "arrow,repeat,arrows,sync,infinite,infinity,load,loading,loop,process,refresh,reload,replay,update,shuffle",
+      "name": "cycle",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path fill=\"none\" stroke=\"#212121\" d=\"M11,4l4,4H9 c-4.418,0-8,3.582-8,8v0c0,4.418,3.582,8,8,8h2\"></path> <path data-color=\"color-2\" fill=\"none\" d=\"M21,28l-4-4 h6c4.418,0,8-3.582,8-8v0c0-4.418-3.582-8-8-8h-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "lock,login,password,security,safe,safety,locked,padlock,privacy,protected,protection,secure,closed,encryption,protect,policy",
+      "name": "lock",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-color=\"color-2\" d=\"M22,10V7a6.018,6.018,0,0,0-6-6h0a6.018,6.018,0,0,0-6,6v3\" fill=\"none\"></path><rect x=\"4\" y=\"14\" width=\"24\" height=\"17\" rx=\"3\" fill=\"none\" stroke=\"#212121\"></rect><line data-color=\"color-2\" x1=\"16\" y1=\"24\" x2=\"16\" y2=\"27\" fill=\"none\"></line><circle data-color=\"color-2\" cx=\"16\" cy=\"21\" r=\"3\" fill=\"none\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "share,connection,connections,web,attachment,chain,hyperlink,link,linked,links,url",
+      "name": "web-hyperlink",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path fill=\"none\" stroke=\"#212121\" d=\"M3.998,19.583 C2.233,18.811,1,17.049,1,15V9c0-2.761,2.239-5,5-5h13c2.761,0,5,2.239,5,5v6c0,2.761-2.239,5-5,5h-7\"></path> <path data-color=\"color-2\" fill=\"none\" d=\" M28.002,12.417C29.767,13.189,31,14.951,31,17v6c0,2.761-2.239,5-5,5H13c-2.761,0-5-2.239-5-5v-6c0-2.761,2.239-5,5-5h7\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "up,hand,finger,gesture,favorite,favourite,approve,like,thumbs,vote,rate,thumb",
+      "name": "thumb-up",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline data-cap=\"butt\" data-color=\"color-2\" points=\"9 30 3 30 3 15 9 15\" fill=\"none\" stroke-linecap=\"butt\"></polyline> <path d=\"M9,15,13,1h1a3,3,0,0,1,3,3V14h9a3,3,0,0,1,3,3v1l-1.774,9.547A3,3,0,0,1,24.28,30H9Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "layer,layers,order,stack,sheets,archive,sheet,layering,overlay,stackable,stacking",
+      "name": "stack",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline data-color=\"color-2\" fill=\"none\" points=\" 28.249,15 30,16 16,24 2,16 3.75,15 \"></polyline> <polyline data-color=\"color-2\" fill=\"none\" points=\" 28.255,21.003 30,22 16,30 2,22 3.75,21 \"></polyline> <polygon fill=\"none\" stroke=\"#212121\" points=\"2,10 16,2 30,10 16,18 \"></polygon></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "education,school,glass,study,science,healthcare,medical,chemistry,flask,test,tube,laboratory,research,equipment,beaker,chemical,drug,experiment",
+      "name": "chemistry",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-color=\"color-2\" d=\"M16,6h7V1H9V6h7\" fill=\"none\"></path><path d=\"M13,10v7L6.388,26.256A3,3,0,0,0,8.83,31H23.17a3,3,0,0,0,2.442-4.744L19,17V10\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "emoticon,smiley,kiss,lips,love,romantic",
+      "name": "kiss",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-color=\"color-2\" d=\"M17,19a3,3,0,0,1,0,6\" fill=\"none\" stroke=\"inherit\"></path> <path d=\"M24,28.691A15,15,0,1,1,31,16q0,.5-.033,1\" fill=\"none\" stroke=\"#212121\"></path> <path data-color=\"color-2\" d=\"M8,11.5a2.5,2.5,0,0,0,5,0\" fill=\"none\" stroke=\"inherit\"></path> <path data-color=\"color-2\" d=\"M24,11.5a2.5,2.5,0,0,1-5,0\" fill=\"none\" stroke=\"inherit\"></path> <path data-color=\"color-2\" data-stroke=\"none\" d=\"M31.281,20.71a2.474,2.474,0,0,0-3.781.374,2.474,2.474,0,0,0-3.781-.374,2.4,2.4,0,0,0,0,3.429L27.5,27.875l3.781-3.736A2.4,2.4,0,0,0,31.281,20.71Z\" stroke=\"none\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "password,key,object,secure,access,license",
+      "name": "access-key",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-color=\"color-2\" fill=\"none\" x1=\"16\" y1=\"15\" x2=\"29\" y2=\"2\"></line> <polyline data-color=\"color-2\" fill=\"none\" points=\" 26,5 30,9 26,13 22,9 \"></polyline> <ellipse transform=\"matrix(0.7071 -0.7071 0.7071 0.7071 -13.9203 12.3934)\" fill=\"none\" stroke=\"#212121\" cx=\"8\" cy=\"23\" rx=\"7\" ry=\"7\"></ellipse></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "direction,navigation,location,way,path,shape,vector,track,route,street,road,journey",
+      "name": "journey",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-color=\"color-2\" fill=\"none\" d=\"M5,19V6.5 C5,3.462,7.462,1,10.5,1h0C13.538,1,16,3.462,16,6.5v19c0,3.038,2.462,5.5,5.5,5.5h0c3.038,0,5.5-2.462,5.5-5.5V13\"></path> <circle fill=\"none\" stroke=\"#212121\" cx=\"27\" cy=\"5\" r=\"4\"></circle> <circle fill=\"none\" stroke=\"#212121\" cx=\"5\" cy=\"27\" r=\"4\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "media,text,picture,editing,image,photo,multimedia",
+      "name": "img",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polygon data-color=\"color-2\" points=\"6 25 10 18 14 22 20 14 26 25 6 25\" fill=\"none\"></polygon><circle data-color=\"color-2\" cx=\"12.5\" cy=\"10.5\" r=\"2.5\" fill=\"none\"></circle><rect x=\"2\" y=\"2\" width=\"28\" height=\"28\" rx=\"3\" fill=\"none\" stroke=\"#212121\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "office,building,estate,home,house,real,page,address,apartment,homepage,local,shelter",
+      "name": "home-3",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline data-cap=\"butt\" data-color=\"color-2\" points=\"1 14 16 2 31 14\" fill=\"none\" stroke-linecap=\"butt\"></polyline> <polyline data-cap=\"butt\" points=\"13 30 13 22 19 22 19 30\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></polyline> <polyline points=\"5 16 5 30 27 30 27 16\" fill=\"none\" stroke=\"#212121\"></polyline> <rect data-color=\"color-2\" x=\"14\" y=\"13\" width=\"4\" height=\"4\" fill=\"none\"></rect> <line data-cap=\"butt\" data-color=\"color-2\" x1=\"7\" y1=\"9.2\" x2=\"7\" y2=\"4\" fill=\"none\" stroke-linecap=\"butt\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "day,award,favorite,favourite,love,romantic,like,heart,valentine,wishlist,dating,relationship,romance",
+      "name": "favorite",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path fill=\"none\" stroke=\"#212121\" d=\"M28.604,5.396 c-3.195-3.195-8.376-3.195-11.571,0C16.639,5.79,16.297,6.215,16,6.661c-0.297-0.446-0.639-0.871-1.033-1.264 c-3.195-3.195-8.376-3.195-11.571,0c-3.195,3.195-3.195,8.376,0,11.571L16,29.571l12.604-12.604 C31.799,13.772,31.799,8.592,28.604,5.396z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "line,interface,layout,list,shape,gallery,boxes,column,grid,row,table,tile,view,square,squares",
+      "name": "grid-interface",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><rect x=\"2\" y=\"2\" fill=\"none\" stroke=\"#212121\" width=\"11\" height=\"11\"></rect> <rect data-color=\"color-2\" x=\"19\" y=\"2\" fill=\"none\" width=\"11\" height=\"11\"></rect> <rect data-color=\"color-2\" x=\"2\" y=\"19\" fill=\"none\" width=\"11\" height=\"11\"></rect> <rect x=\"19\" y=\"19\" fill=\"none\" stroke=\"#212121\" width=\"11\" height=\"11\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "exchange,box,shopping,gift,package,present,surprise,birthday,christmas,donation,wrapped",
+      "name": "present",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M28,17V27a3,3,0,0,1-3,3H7a3,3,0,0,1-3-3V17\" fill=\"none\" stroke=\"#212121\"></path> <rect x=\"1\" y=\"8\" width=\"30\" height=\"5\" fill=\"none\" stroke=\"#212121\"></rect> <path data-color=\"color-2\" d=\"M7,5a3,3,0,0,1,3-3c4.438,0,6,6,6,6H10A3,3,0,0,1,7,5Z\" fill=\"none\"></path> <path data-color=\"color-2\" d=\"M25,5a3,3,0,0,0-3-3c-4.438,0-6,6-6,6h6A3,3,0,0,0,25,5Z\" fill=\"none\"></path> <rect data-color=\"color-2\" x=\"13\" y=\"8\" width=\"6\" height=\"22\" fill=\"none\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "files,file,folder,document,format,office,paper,documents,catalog,envelope,archive",
+      "name": "folder",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M28,29H4a3,3,0,0,1-3-3V2H12l3,5H31V26A3,3,0,0,1,28,29Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "watch,view,search,visibility,blind,eye,preview,disabled,hidden,hide,look,observe,overview,see,sight,visible,vision,invisible",
+      "name": "hide",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-cap=\"butt\" d=\"M8.373,23.627a27.659,27.659,0,0,1-6.958-6.445,1.938,1.938,0,0,1-.008-2.37C3.428,12.162,8.892,6,16.006,6a14.545,14.545,0,0,1,7.626,2.368\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></path><path d=\"M27,10.923a30.256,30.256,0,0,1,3.591,3.887,1.937,1.937,0,0,1,0,2.38C28.542,19.842,23.026,26,16.006,26A12.843,12.843,0,0,1,12,25.341\" fill=\"none\" stroke=\"#212121\"></path><path data-color=\"color-2\" data-cap=\"butt\" d=\"M11.764,20.243a6,6,0,0,1,8.482-8.489\" fill=\"none\" stroke-linecap=\"butt\"></path><path data-color=\"color-2\" d=\"M21.923,15a6.005,6.005,0,0,1-5.917,7A6.061,6.061,0,0,1,15,21.916\" fill=\"none\"></path><line data-color=\"color-2\" x1=\"2\" y1=\"30\" x2=\"30\" y2=\"2\" fill=\"none\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "watch,view,search,visibility,eye,preview,look,observe,overview,see,sight,visible,vision",
+      "name": "view",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M1.409,17.182a1.936,1.936,0,0,1-.008-2.37C3.422,12.162,8.886,6,16,6c7.02,0,12.536,6.158,14.585,8.81a1.937,1.937,0,0,1,0,2.38C28.536,19.842,23.02,26,16,26S3.453,19.828,1.409,17.182Z\" fill=\"none\" stroke=\"#212121\"></path> <circle data-color=\"color-2\" cx=\"16\" cy=\"16\" r=\"6\" fill=\"none\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "interface,enlarge,expand,fullscreen,increase,maximize,zoom,full,scale,size,in,center,plus,screen,crop,big,magnify,explore,magnifier,magnifying,fullsize,large",
+      "name": "screen-maximize",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M2,10V5A3,3,0,0,1,5,2h5\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M22,2h5a3,3,0,0,1,3,3v5\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M30,22v5a3,3,0,0,1-3,3H22\" fill=\"none\" stroke=\"#212121\"></path><path d=\"M10,30H5a3,3,0,0,1-3-3V22\" fill=\"none\" stroke=\"#212121\"></path><rect data-color=\"color-2\" x=\"10\" y=\"12\" width=\"12\" height=\"8\" fill=\"none\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "communication,post,send,email,mail,message,messages,contact,write,envelope,letter,mailbox,news,newsletter",
+      "name": "letter",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M1,15V25a3,3,0,0,0,3,3H28a3,3,0,0,0,3-3V15\" fill=\"none\" stroke=\"#212121\"></path> <path data-color=\"color-2\" d=\"M31,10V7a3,3,0,0,0-3-3H4A3,3,0,0,0,1,7v3l15,8Z\" fill=\"none\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "arrow,direction,top,up,upward,file,upload,sharing,eject,screen",
+      "name": "eject",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M6,25H5a3,3,0,0,1-3-3V6A3,3,0,0,1,5,3H27a3,3,0,0,1,3,3V22a3,3,0,0,1-3,3H26\" fill=\"none\" stroke=\"#212121\"></path><polygon data-color=\"color-2\" points=\"9 29 23 29 16 19 9 29\" fill=\"none\"></polygon></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "text,message,note,pen,edit,pencil,write,draw,create,editing,compose,editor,draft,rename",
+      "name": "pen",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" data-color=\"color-2\" x1=\"20\" y1=\"5\" x2=\"27\" y2=\"12\" fill=\"none\" stroke-linecap=\"butt\"></line> <path d=\"M11,28,2,30l2-9L22.414,2.586a2,2,0,0,1,2.828,0l4.172,4.172a2,2,0,0,1,0,2.828Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "arrow,bottom,descend,down,downward,data,download,file,input,save,share,storage,transfer",
+      "name": "download-file",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" data-color=\"color-2\" x1=\"16\" y1=\"26\" x2=\"16\" y2=\"1\" fill=\"none\" stroke-linecap=\"butt\"></line><polyline data-color=\"color-2\" points=\"10 20 16 26 22 20\" fill=\"none\"></polyline><polyline points=\"11 15 5 15 2 30 30 30 27 15 21 15\" fill=\"none\" stroke=\"#212121\"></polyline></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "download,save,storage,backup,drive,disk,diskette,floppy,floppydisk",
+      "name": "floppy-disk",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline data-color=\"color-2\" points=\"20 6 20 11 7 11 7 6\" fill=\"none\"></polyline> <polyline data-color=\"color-2\" points=\"7 26 7 19 25 19 25 26\" fill=\"none\"></polyline> <path d=\"M27,30H5a3,3,0,0,1-3-3V5A3,3,0,0,1,5,2H24l6,6V27A3,3,0,0,1,27,30Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "interface,scale,growth,settings,meter,dashboard,speed,widget,setting,fast,gauge,indicator,metrics,odometer,performance,productivity,speedometer,bandwidth",
+      "name": "control-panel",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" data-color=\"color-2\" fill=\"none\" x1=\"16\" y1=\"4\" x2=\"16\" y2=\"8\" stroke-linecap=\"butt\"></line> <line data-cap=\"butt\" data-color=\"color-2\" fill=\"none\" x1=\"26.607\" y1=\"8.393\" x2=\"23.778\" y2=\"11.222\" stroke-linecap=\"butt\"></line> <line data-cap=\"butt\" data-color=\"color-2\" fill=\"none\" x1=\"31\" y1=\"19\" x2=\"27\" y2=\"19\" stroke-linecap=\"butt\"></line> <line data-cap=\"butt\" data-color=\"color-2\" fill=\"none\" x1=\"1\" y1=\"19\" x2=\"5\" y2=\"19\" stroke-linecap=\"butt\"></line> <line data-cap=\"butt\" data-color=\"color-2\" fill=\"none\" x1=\"13.879\" y1=\"16.879\" x2=\"8\" y2=\"11\" stroke-linecap=\"butt\"></line> <circle data-color=\"color-2\" fill=\"none\" cx=\"16\" cy=\"19\" r=\"3\"></circle> <path fill=\"none\" stroke=\"#212121\" d=\"M27.98,28 c1.888-2.509,3.02-5.618,3.02-9c0-8.284-6.716-15-15-15C7.716,4,1,10.716,1,19c0,3.382,1.133,6.491,3.02,9H27.98z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "cloud,storage,weather,backup,ui,interface,cloudy,forecast,icloud",
+      "name": "cloud",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M19,4A11.993,11.993,0,0,0,7.172,14.053,7,7,0,0,0,8,28H19A12,12,0,0,0,19,4Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "communication,chat,comments,conversation,dialog,forum,messages,speaking,talk,bubbles",
+      "name": "comments",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-color=\"color-2\" d=\"M29,9a2,2,0,0,1,2,2V22a2,2,0,0,1-2,2H27v5l-7-5H14\" fill=\"none\"></path> <path d=\"M23,2H3A2,2,0,0,0,1,4V17a2,2,0,0,0,2,2H6v7l8-7h9a2,2,0,0,0,2-2V4A2,2,0,0,0,23,2Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "bag,shopping,ecommerce,sale,shop,checkout,basket,buy,cart,retail,trolley",
+      "name": "cart",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><circle data-color=\"color-2\" fill=\"none\" cx=\"5\" cy=\"28\" r=\"3\"></circle> <circle data-color=\"color-2\" fill=\"none\" cx=\"27\" cy=\"28\" r=\"3\"></circle> <polyline data-cap=\"butt\" fill=\"none\" stroke=\"#212121\" points=\"1,1 4,5 4,17 2,21 31,21 \" stroke-linecap=\"butt\"></polyline> <polyline fill=\"none\" stroke=\"#212121\" points=\"4,5 29,5 24,17 4,17 \"></polyline></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "drive,car,vehicle,auto,transportation,automobile",
+      "name": "car-front",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-cap=\"butt\" d=\"M28,14,26.279,3.671A2,2,0,0,0,24.306,2H7.694A2,2,0,0,0,5.721,3.671L4,14\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></path><polyline data-color=\"color-2\" points=\"9 27 9 30 3 30 3 27\" fill=\"none\" stroke=\"inherit\"></polyline><polyline data-color=\"color-2\" points=\"29 27 29 30 23 30 23 27\" fill=\"none\" stroke=\"inherit\"></polyline><path d=\"M31,24H1V17.83a2,2,0,0,1,.585-1.414L4,14H28l2.414,2.414A2,2,0,0,1,31,17.828Z\" fill=\"none\" stroke=\"#212121\"></path><circle data-stroke=\"none\" cx=\"6.5\" cy=\"19.5\" r=\"1.5\" fill=\"#212121\" stroke=\"none\"></circle><circle data-stroke=\"none\" cx=\"25.5\" cy=\"19.5\" r=\"1.5\" fill=\"#212121\" stroke=\"none\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "media,photo,camera,multimedia,digital",
+      "name": "camera-2",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" data-color=\"color-2\" x1=\"6\" y1=\"7\" x2=\"6\" y2=\"29\" fill=\"none\" stroke-linecap=\"butt\"></line><path d=\"M4,29H28a3,3,0,0,0,3-3V10a3,3,0,0,0-3-3H25L22,2H14L11,7H4a3,3,0,0,0-3,3V26A3,3,0,0,0,4,29Z\" fill=\"none\" stroke=\"#212121\"></path><circle data-color=\"color-2\" cx=\"18\" cy=\"18\" r=\"7\" fill=\"none\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "day,schedule,time,calendar,appointment,event,plan,planning,date,month,timetable,year",
+      "name": "calendar-2",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-color=\"color-2\" data-cap=\"butt\" x1=\"31\" y1=\"12\" x2=\"1\" y2=\"12\" fill=\"none\" stroke-linecap=\"butt\"></line><rect x=\"1\" y=\"4\" width=\"30\" height=\"26\" rx=\"3\" ry=\"3\" fill=\"none\" stroke=\"#212121\"></rect><line x1=\"8\" y1=\"1\" x2=\"8\" y2=\"7\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"24\" y1=\"1\" x2=\"24\" y2=\"7\" fill=\"none\" stroke=\"#212121\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "achievement,award,ribbon,label,reading,study,bookmark,favorite,favourite,mark,marker,like,bookmarking,marked,preference,saved",
+      "name": "bookmark",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M28,30,16,23,4,30V4A3,3,0,0,1,7,1H25a3,3,0,0,1,3,3Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "holidays,ring,alarm,sound,alert,notification,christmas,bell,buzz,ringing,ringtone,wake",
+      "name": "alarm",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path data-cap=\"butt\" data-color=\"color-2\" d=\"M13,28a3,3,0,0,0,6,0\" fill=\"none\" stroke-linecap=\"butt\"></path> <path d=\"M29,25s-3-5-3-9V11A10,10,0,0,0,6,11v5c0,4-3,9-3,9Z\" fill=\"none\" stroke=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "shopping,ecommerce,sale,shop,checkout,basket,buy,cart,groceries,picnic,retail",
+      "name": "basket",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line data-cap=\"butt\" x1=\"6\" y1=\"11\" x2=\"12\" y2=\"1\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></line> <line data-cap=\"butt\" x1=\"26\" y1=\"11\" x2=\"20\" y2=\"1\" fill=\"none\" stroke=\"#212121\" stroke-linecap=\"butt\"></line> <path d=\"M28,15V27a3,3,0,0,1-3,3H7a3,3,0,0,1-3-3V15\" fill=\"none\" stroke=\"#212121\"></path> <line x1=\"1\" y1=\"11\" x2=\"31\" y2=\"11\" fill=\"none\" stroke=\"#212121\"></line> <line data-color=\"color-2\" x1=\"16\" y1=\"18\" x2=\"16\" y2=\"25\" fill=\"none\"></line> <line data-color=\"color-2\" x1=\"11\" y1=\"18\" x2=\"11\" y2=\"25\" fill=\"none\"></line> <line data-color=\"color-2\" x1=\"21\" y1=\"18\" x2=\"21\" y2=\"25\" fill=\"none\"></line></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "bag,briefcase,shopping,ecommerce,sale,shop,purse,buy,cart,handbag",
+      "name": "shopping-bag",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M26.541,31H5.459a3,3,0,0,1-2.97-3.424L5,10H27l2.511,17.576A3,3,0,0,1,26.541,31Z\" fill=\"none\" stroke=\"#212121\"></path> <path data-color=\"color-2\" d=\"M11,15V6a5,5,0,0,1,5-5h0a5,5,0,0,1,5,5v9\" fill=\"none\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "seat,furniture,chair,movie,armchair,living,lounge,room,sofa,relax,seating,cinema",
+      "name": "armchair",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"5\" y1=\"31\" x2=\"5\" y2=\"28\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"27\" y1=\"31\" x2=\"27\" y2=\"28\" fill=\"none\" stroke=\"#212121\"></line><path d=\"M31,28V17.5A3.5,3.5,0,0,0,27.5,14h0A3.5,3.5,0,0,0,24,17.5V21H8V17.5A3.5,3.5,0,0,0,4.5,14h0A3.5,3.5,0,0,0,1,17.5V28Z\" fill=\"none\" stroke=\"#212121\"></path><path data-color=\"color-2\" d=\"M27,10V4a3,3,0,0,0-3-3H8A3,3,0,0,0,5,4v6\" fill=\"none\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "files,file,storage,ui,interface,inbox,folder,organize,box,document,furniture,collection,documents,editor,archive,container,drawer,cabinet,handle,safebox",
+      "name": "archive",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><polyline data-cap=\"butt\" data-color=\"color-2\" points=\"2 19 11 19 11 23 21 23 21 19 30 19\" fill=\"none\" stroke-linecap=\"butt\"></polyline> <rect x=\"2\" y=\"2\" width=\"28\" height=\"28\" rx=\"3\" ry=\"3\" fill=\"none\" stroke=\"#212121\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "sign,error,danger,alert,attention,caution,exclamation,problem,warning,red",
+      "name": "warning-sign",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><path d=\"M1.248,27,14.2,3.071a2.051,2.051,0,0,1,3.6,0L30.752,27a2.036,2.036,0,0,1-1.8,3H3.05A2.036,2.036,0,0,1,1.248,27Z\" fill=\"none\" stroke=\"#212121\"></path><line data-color=\"color-2\" x1=\"16\" y1=\"10\" x2=\"16\" y2=\"20\" fill=\"none\" stroke=\"inherit\"></line><circle data-color=\"color-2\" data-stroke=\"none\" cx=\"16\" cy=\"24.5\" r=\"1.5\" stroke=\"none\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "outline",
+      "width": 32,
+      "height": 32,
+      "tags": "user,profile,account,avatar,person,accessibility,users,member,human,accessible,fair",
+      "name": "accessibility",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" height=\"32\" width=\"32\"><g class=\"nc-icon-wrapper\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" fill=\"#212121\" stroke=\"#212121\" stroke-miterlimit=\"10\"><line x1=\"20\" y1=\"22\" x2=\"12\" y2=\"22\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"20\" y1=\"11\" x2=\"20\" y2=\"31\" fill=\"none\" stroke=\"#212121\"></line><line x1=\"12\" y1=\"31\" x2=\"12\" y2=\"11\" fill=\"none\" stroke=\"#212121\"></line><circle data-color=\"color-2\" cx=\"16\" cy=\"4\" r=\"3\" fill=\"none\"></circle><line x1=\"3\" y1=\"11\" x2=\"29\" y2=\"11\" fill=\"none\" stroke=\"#212121\"></line></g></svg>",
+      "set_id": 1
+    }
+  ],
+  "sets": [],
+  "groups": []
+}

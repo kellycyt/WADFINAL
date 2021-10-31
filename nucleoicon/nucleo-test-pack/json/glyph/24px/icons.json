@@ -1,0 +1,906 @@
+{
+  "icons": [
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "exchange,circle,transfer,connection,network,circuit,order,system,payment,agreement,nodes,market,plugin,modules,api,cryptocurrency,transactions",
+      "name": "transactions",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M3.238,15.016A8.879,8.879,0,0,1,3,13,9.023,9.023,0,0,1,7.531,5.2a4.931,4.931,0,0,1-.511-2A11.033,11.033,0,0,0,1,13a10.917,10.917,0,0,0,.358,2.749,3.025,3.025,0,1,0,1.88-.733Z\" fill=\"#212121\"></path><path d=\"M14.94,2.407a3.026,3.026,0,1,0-.3,1.991A9.023,9.023,0,0,1,21,13v.023a4.965,4.965,0,0,1,1.977.556c.011-.193.024-.386.024-.579A11.024,11.024,0,0,0,14.94,2.407Z\" fill=\"#212121\"></path><path d=\"M22.16,15.4a2.99,2.99,0,0,0-4.036,4.174,8.942,8.942,0,0,1-10.647,1.2A4.935,4.935,0,0,1,6.018,22.2,10.89,10.89,0,0,0,19.7,20.821a2.971,2.971,0,0,0,.955.179,3,3,0,0,0,1.5-5.6Z\" data-color=\"color-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "box,system,design,shape,cube,geometry,nodes,plugin,components,modules,api,add-on,extensions,cryptocurrency,blockchain,hexagons,sequence",
+      "name": "blockchain",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M12,15.75l3.882-1.941-3.435-1.717a1,1,0,0,0-.894,0L8.118,13.809Z\" data-color=\"color-2\"></path><path d=\"M13,17.486v5.382l3.447-1.724A1,1,0,0,0,17,20.25V15.486Z\" data-color=\"color-2\"></path><path d=\"M11,17.486l-4-2V20.25a1,1,0,0,0,.553.894L11,22.868Z\" data-color=\"color-2\"></path><path d=\"M6,5.014,9.881,3.073,6.447,1.356a1,1,0,0,0-.9,0L2.118,3.073Z\" fill=\"#212121\"></path><path d=\"M7,6.75v5.382l3.447-1.724A1,1,0,0,0,11,9.514V4.75Z\" fill=\"#212121\"></path><path d=\"M5,6.75l-4-2V9.514a1,1,0,0,0,.552.894L5,12.132Z\" fill=\"#212121\"></path><path d=\"M18,5.014l3.882-1.941L18.447,1.356a1,1,0,0,0-.894,0L14.118,3.073Z\" fill=\"#212121\"></path><path d=\"M19,6.75v5.382l3.447-1.724A1,1,0,0,0,23,9.514V4.75Z\" fill=\"#212121\"></path><path d=\"M17,6.75l-4-2V9.514a1,1,0,0,0,.553.894L17,12.132Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "data,stats,chart,report,statistics,analytics,bars,science,analysis,presentation,trending",
+      "name": "statistics",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><rect x=\"1\" y=\"18\" width=\"4\" height=\"5\" rx=\"0.5\" fill=\"#212121\"></rect><rect x=\"7\" y=\"11\" width=\"4\" height=\"12\" rx=\"0.5\" fill=\"#212121\"></rect><rect x=\"13\" y=\"18\" width=\"4\" height=\"5\" rx=\"0.5\" fill=\"#212121\"></rect><rect x=\"19\" y=\"11\" width=\"4\" height=\"12\" rx=\"0.5\" fill=\"#212121\"></rect><path d=\"M21.293,1.293,15,7.586,9.707,2.293a1,1,0,0,0-1.414,0l-7,7a1,1,0,1,0,1.414,1.414L9,4.414l5.293,5.293a1,1,0,0,0,1.414,0l7-7a1,1,0,0,0-1.414-1.414Z\" data-color=\"color-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "science,smart,thinking,gear,mind,artificial,intelligence,logic,abstraction,prediction,philosophy",
+      "name": "logic",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><circle cx=\"13\" cy=\"10\" r=\"2\" data-color=\"color-2\"></circle><path d=\"M12.316.023A10.236,10.236,0,0,0,3,10.353v.411L1.106,14.553A1,1,0,0,0,1.553,15.9L3,16.618V19a3,3,0,0,0,3,3H9v2H20V17.127A9.991,9.991,0,0,0,12.316.023ZM18,11H16.858a3.915,3.915,0,0,1-.425,1.019l.809.809a1,1,0,1,1-1.414,1.414l-.809-.809A3.915,3.915,0,0,1,14,13.858V15a1,1,0,0,1-2,0V13.858a3.915,3.915,0,0,1-1.019-.425l-.809.809a1,1,0,0,1-1.414-1.414l.809-.809A3.915,3.915,0,0,1,9.142,11H8A1,1,0,0,1,8,9H9.142a3.915,3.915,0,0,1,.425-1.019l-.809-.809a1,1,0,0,1,1.414-1.414l.809.809A3.915,3.915,0,0,1,12,6.142V5a1,1,0,0,1,2,0V6.142a3.915,3.915,0,0,1,1.019.425l.809-.809a1,1,0,1,1,1.414,1.414l-.809.809A3.915,3.915,0,0,1,16.858,9H18a1,1,0,0,1,0,2Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "mouse,animal,nature,laboratory,mice,rat,rodent",
+      "name": "rat",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M21.707,13.093A7.887,7.887,0,0,0,22,11a8.009,8.009,0,0,0-8-8,13.862,13.862,0,0,0-5.061.947A4.94,4.94,0,0,0,6.122,2.128a1,1,0,0,0-1.2.75L3.9,7.335A13.979,13.979,0,0,0,.389,13.77,1,1,0,0,0,1.362,15H21a1,1,0,0,1,0,2H15a3,3,0,0,0,0,6h2a1,1,0,0,0,0-2H15a1,1,0,0,1,0-2h6a3,3,0,0,0,.707-5.907ZM6,11a1,1,0,1,1,1-1A1,1,0,0,1,6,11Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "baby,cute,infant,rest,night,child,newborn,sleeping,kids,nap,bedtime,asleep",
+      "name": "sleeping-baby",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M21.16,8a10,10,0,0,0-9.149-6,1.5,1.5,0,1,0,.757,2.8,1,1,0,0,1,1,1.73A3.5,3.5,0,0,1,8.519,3.5a3.488,3.488,0,0,1,.13-.9A10,10,0,0,0,2.84,8a3,3,0,0,0-.659,5.883,10,10,0,0,0,19.638,0A3,3,0,0,0,21.16,8ZM6.143,11.333a1,1,0,0,1,1.885-.666.5.5,0,0,0,.944,0,1,1,0,0,1,1.885.666,2.5,2.5,0,0,1-4.714,0ZM12,19a2,2,0,1,1,2-2A2,2,0,0,1,12,19Zm5.857-7.667a2.5,2.5,0,0,1-4.714,0,1,1,0,0,1,1.885-.666.5.5,0,0,0,.944,0,1,1,0,0,1,1.885.666Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "baby,human,fertilization,pregnancy,pregnant,embryo,organism,birth,fetus",
+      "name": "embryo",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M8,7.5a5.473,5.473,0,0,0,2.584,4.653,1,1,0,0,1-1.065,1.694A7.466,7.466,0,0,1,6,7.5,9.483,9.483,0,0,0,2.61.235a1,1,0,1,0-1.288,1.53A7.487,7.487,0,0,1,4,7.5a9.437,9.437,0,0,0,1.947,5.738c-.632-.118-1.082-.2-1.082-.2A2.44,2.44,0,0,0,4.5,13a2.5,2.5,0,0,0-2.086,3.874h0l2.7,3.87-.668.694a1.5,1.5,0,0,0,2.122,2.122l.961-1a1.474,1.474,0,0,0,.4-1.287l-.361-2.411a7.992,7.992,0,0,0,13.061-8.287A5.5,5.5,0,1,0,15.344,10H13.5A2.5,2.5,0,0,1,11,7.5a1.5,1.5,0,0,0-3,0Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "anniversary,love,romantic,valentine,date,romance,wedding,lovers,flowers,bouquet",
+      "name": "bouquet",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M19.5,2a3.588,3.588,0,0,0-.5.05V4a6.958,6.958,0,0,1-1.524,4.347A3.5,3.5,0,1,0,19.5,2Z\" data-color=\"color-2\"></path><path d=\"M4.5,2a3.588,3.588,0,0,1,.5.05V4A6.958,6.958,0,0,0,6.524,8.347,3.5,3.5,0,1,1,4.5,2Z\" data-color=\"color-2\"></path><path d=\"M16,0a7.585,7.585,0,0,0-3.407.808A6.956,6.956,0,0,1,14,5a1,1,0,0,1-2,0A5.006,5.006,0,0,0,7,0V4A5,5,0,0,0,17,4V0Z\" data-color=\"color-2\"></path><path d=\"M14.618,20H9.382L8.105,22.553A1,1,0,0,0,9,24h6a1,1,0,0,0,.895-1.447Z\" fill=\"#212121\"></path><path d=\"M21.157,10.793a2.771,2.771,0,0,0-3.828,0,.709.709,0,0,1-1,0,2.772,2.772,0,0,0-3.829,0,.722.722,0,0,1-1,0,2.771,2.771,0,0,0-3.828,0,.709.709,0,0,1-1,0,2.772,2.772,0,0,0-3.829,0,1,1,0,0,0,0,1.412L8.6,18H15.4l5.756-5.795A1,1,0,0,0,21.157,10.793Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "food,love,romantic,heart,dish,plate,restaurant,tray,valentine,date,romance,dinner,lovers",
+      "name": "romantic-restaurant",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M16.621,5.121,12,9.743,7.379,5.121A3,3,0,0,1,11.621.879L12,1.257l.379-.378a3,3,0,1,1,4.242,4.242Z\" data-color=\"color-2\"></path><path d=\"M17,16a1,1,0,0,0,0-2H7a1,1,0,0,0,0,2h4v8h2V16Z\" fill=\"#212121\"></path><path d=\"M22,12v6H17a1,1,0,0,0-1,1v5h2V20h4v4h2V12Z\" fill=\"#212121\"></path><path d=\"M7,18H2V12H0V24H2V20H6v4H8V19A1,1,0,0,0,7,18Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "sick,virus,allergy,cold,flu,sneezing,germs,coughing",
+      "name": "coughing",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M9.237,24H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0H18.74l-.422,1.308a13.887,13.887,0,0,1-1.267,2.8l1.423,6.169a1,1,0,0,1-.833,1.215l-2.82.4-.306,1.331a1,1,0,0,1-.974.776H10l1.585,1.419a1,1,0,0,1,.228,1.192l-.5,1a4.225,4.225,0,0,1-1.9,1.956,3.978,3.978,0,0,1-3.539-.019L3.447,18.342l-.211.422a2,2,0,0,0,.9,2.684Z\" fill=\"#212121\"></path><path d=\"M19.219,16.888a.991.991,0,0,1-.371-.072l-2.22-.887a1,1,0,0,1,.744-1.858l2.219.888a1,1,0,0,1-.372,1.929Z\" data-color=\"color-2\"></path><circle cx=\"22\" cy=\"17\" r=\"1\" data-color=\"color-2\"></circle><circle cx=\"20\" cy=\"21\" r=\"1.25\" data-color=\"color-2\"></circle><path d=\"M14.888,21.219a1,1,0,0,1-.929-.629l-.887-2.219a1,1,0,1,1,1.856-.742l.888,2.219a1,1,0,0,1-.928,1.371Z\" data-color=\"color-2\"></path><circle cx=\"16\" cy=\"23\" r=\"1\" data-color=\"color-2\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "data,security,preferences,edit,options,settings,privacy,terms,configurations",
+      "name": "data-settings",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M10,18a7.993,7.993,0,0,1,11-7.413V.5a.5.5,0,0,0-.854-.354l-20,20A.5.5,0,0,0,.5,21H10.587A7.96,7.96,0,0,1,10,18Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M23,17H21.858a3.915,3.915,0,0,0-.425-1.019l.809-.809a1,1,0,0,0-1.414-1.414l-.809.809A3.915,3.915,0,0,0,19,14.142V13a1,1,0,0,0-2,0v1.142a3.915,3.915,0,0,0-1.019.425l-.809-.809a1,1,0,0,0-1.414,1.414l.809.809A3.915,3.915,0,0,0,14.142,17H13a1,1,0,0,0,0,2h1.142a3.915,3.915,0,0,0,.425,1.019l-.809.809a1,1,0,1,0,1.414,1.414l.809-.809A3.915,3.915,0,0,0,17,21.858V23a1,1,0,0,0,2,0V21.858a3.915,3.915,0,0,0,1.019-.425l.809.809a1,1,0,0,0,1.414-1.414l-.809-.809A3.915,3.915,0,0,0,21.858,19H23a1,1,0,0,0,0-2Zm-5,3a2,2,0,1,1,2-2A2,2,0,0,1,18,20Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "bank,budget,cash,money,plant,coin,deposit,income,profit,savings,earnings,salary",
+      "name": "savings",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M14.809,13.183A6.645,6.645,0,0,0,22.753,12,6.641,6.641,0,0,0,18,10a7,7,0,0,0-6,3.413A7,7,0,0,0,6,10a6.641,6.641,0,0,0-4.753,2,6.645,6.645,0,0,0,7.944,1.183A5.024,5.024,0,0,1,10.892,16H7a1,1,0,0,0-.986,1.164l1,6A1,1,0,0,0,8,24h8a1,1,0,0,0,.986-.836l1-6A1,1,0,0,0,17,16H13.108A5.024,5.024,0,0,1,14.809,13.183Z\" fill=\"#212121\"></path><path d=\"M12,0a5,5,0,1,0,5,5A5.006,5.006,0,0,0,12,0Zm1,7H11V3h2Z\" data-color=\"color-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "banking,bank,payment,card,credit,debit,wifi,contactless",
+      "name": "contactless-card",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M22,2H2A2,2,0,0,0,0,4V20a2,2,0,0,0,2,2H22a2,2,0,0,0,2-2V4A2,2,0,0,0,22,2ZM13,17.5a.5.5,0,0,1-.5.5h-8a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h8a.5.5,0,0,1,.5.5ZM12.5,9A1.5,1.5,0,1,1,14,10.5,1.5,1.5,0,0,1,12.5,9ZM20,17.5a.5.5,0,0,1-.5.5h-4a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h4a.5.5,0,0,1,.5.5Zm-1.2-4.9a1,1,0,1,1-1.6-1.2,4,4,0,0,0,0-4.8,1,1,0,1,1,1.6-1.2,6,6,0,0,1,0,7.2Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "data,file,save,new,add,create,plus,archive,later",
+      "name": "save-for-later",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M18,14A7.993,7.993,0,0,1,10.587,3H1A1,1,0,0,0,0,4V23a1,1,0,0,0,1,1H20a1,1,0,0,0,1-1V13.413A7.952,7.952,0,0,1,18,14Zm1,8H2V18H19Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M18,0a6,6,0,1,0,6,6A6,6,0,0,0,18,0Zm3.5,7H19V9.5a.5.5,0,0,1-.5.5h-1a.5.5,0,0,1-.5-.5V7H14.5a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5H17V2.5a.5.5,0,0,1,.5-.5h1a.5.5,0,0,1,.5.5V5h2.5a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,21.5,7Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "glasses,hat,privacy,private,invisible,incognito,incognito mode,undercover,detective",
+      "name": "incognito",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><polygon points=\"0 13 24 13 19 9 5 9 0 13\" fill=\"#212121\"></polygon><path d=\"M17.5,14a4.484,4.484,0,0,0-3.911,2.318,4.506,4.506,0,0,0-3.178,0A4.465,4.465,0,1,0,11,18.5c0-.089-.021-.172-.026-.26a2.467,2.467,0,0,1,2.052,0c0,.088-.026.171-.026.26A4.5,4.5,0,1,0,17.5,14Zm-11,7A2.5,2.5,0,1,1,9,18.5,2.5,2.5,0,0,1,6.5,21Zm11,0A2.5,2.5,0,1,1,20,18.5,2.5,2.5,0,0,1,17.5,21Z\" data-color=\"color-2\"></path><path d=\"M18.5,7,17.189,1.757A1,1,0,0,0,16.219,1H7.781a1,1,0,0,0-.97.757L5.5,7Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "play,music,band,rock,instrument,musician,musical,concert,drums,percussion",
+      "name": "drums",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M21.066,4.822,18.731,5.989C20.824,6.708,22,7.691,22,8.5,22,9.962,18.2,12,12,12S2,9.962,2,8.5c0-.81,1.171-1.795,3.264-2.514L2.93,4.819C1.154,5.726,0,6.959,0,8.5v9C0,20.538,5.373,23,12,23s12-2.462,12-5.5v-9C24,6.958,22.842,5.727,21.066,4.822ZM6,20.183A12.587,12.587,0,0,1,4,19.4v-6.74A16.094,16.094,0,0,0,6,13.3Zm7,.794c-.327.013-.658.023-1,.023s-.673-.01-1-.023v-7c.331.011.66.027,1,.027s.669-.016,1-.027ZM20,19.4a12.587,12.587,0,0,1-2,.781V13.3a16.094,16.094,0,0,0,2-.642Z\" fill=\"#212121\"></path><path d=\"M22.9.553A1,1,0,0,0,21.553.105L12,4.882,2.447.105A1,1,0,0,0,1.553,1.9L9.764,6,7.553,7.105A1,1,0,0,0,8.447,8.9L12,7.118,15.553,8.9a1,1,0,1,0,.894-1.79L14.236,6,22.447,1.9A1,1,0,0,0,22.9.553Z\" data-color=\"color-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "tool,chart,edit,bars,settings,editing,photo,editor,contrast,level,configuration,tools,levels",
+      "name": "edit-levels",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><polygon points=\"0 22 0 19.97 2 18.47 4 19.97 4 22 0 22\" fill=\"#212121\"></polygon><polygon points=\"10 22 10 19.97 12 18.47 14 19.97 14 22 10 22\" fill=\"#212121\"></polygon><polygon points=\"20 22 20 19.97 22 18.47 24 19.97 24 22 20 22\" fill=\"#212121\"></polygon><rect x=\"1\" y=\"7\" width=\"2\" height=\"9\" data-color=\"color-2\"></rect><rect x=\"13\" y=\"4\" width=\"2\" height=\"12\" fill=\"#212121\"></rect><rect x=\"5\" y=\"2\" width=\"2\" height=\"14\" fill=\"#212121\"></rect><rect x=\"9\" y=\"9\" width=\"2\" height=\"7\" data-color=\"color-2\"></rect><rect x=\"17\" y=\"6\" width=\"2\" height=\"10\" data-color=\"color-2\"></rect><rect x=\"21\" y=\"2\" width=\"2\" height=\"14\" fill=\"#212121\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "animal,blind,pet,accessibility,dog,walking,mobility,blindness,leash,leashed",
+      "name": "dog-leash",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M15.371,8.024A1.982,1.982,0,0,1,13.681,9H4A2,2,0,0,1,2,7,1,1,0,0,0,0,7a3.99,3.99,0,0,0,3.578,3.957A3.961,3.961,0,0,0,3,13V23H5l.482-4.817a1.009,1.009,0,0,1,.1-.348L7,15l7.793,1.834a1,1,0,0,1,.767.89L16,23h2V17.11a.988.988,0,0,1,.024-.217l1.508-6.788Z\" fill=\"#212121\"></path><path d=\"M19,4,18,2,16,6.662,19.868,8.6,20,8h2a2,2,0,0,0,2-2V5Z\" fill=\"#212121\"></path><path d=\"M14.11,6H14A5.006,5.006,0,0,1,9,1V0H7V1a7.009,7.009,0,0,0,6.269,6.961Z\" data-color=\"color-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "environment,world,3D,physics,content,atom,virtual,reality,vr,experience,immersive,nuclear",
+      "name": "content-360deg",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M12,9a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z\" data-color=\"color-2\"></path><path d=\"M24,12c0-2.579-2.4-4.827-5.959-6.041C16.827,2.4,14.579,0,12,0,8.134,0,5,5.373,5,12a19.973,19.973,0,0,0,.333,3.655C3.243,14.675,2,13.3,2,12A3.157,3.157,0,0,1,3.105,9.822,20.538,20.538,0,0,1,3.6,7.007C1.379,8.277,0,10.044,0,12c0,2.579,2.4,4.827,5.959,6.041C7.173,21.6,9.421,24,12,24c1.956,0,3.723-1.379,4.993-3.6a20.538,20.538,0,0,1-2.815.491A3.157,3.157,0,0,1,12,22c-1.3,0-2.675-1.243-3.655-3.333A19.973,19.973,0,0,0,12,19C18.627,19,24,15.866,24,12ZM7,12C7,6.106,9.635,2,12,2c1.3,0,2.675,1.243,3.655,3.333A19.973,19.973,0,0,0,12,5q-.612,0-1.208.036a8.652,8.652,0,0,0-1.036,2.1A18.741,18.741,0,0,1,12,7a17.52,17.52,0,0,1,4.446.554A17.52,17.52,0,0,1,17,12a18.741,18.741,0,0,1-.135,2.244,8.652,8.652,0,0,0,2.1-1.036Q19,12.611,19,12a19.973,19.973,0,0,0-.333-3.655C20.757,9.325,22,10.7,22,12c0,2.365-4.106,5-10,5a17.52,17.52,0,0,1-4.446-.554A17.52,17.52,0,0,1,7,12Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "technology,3D,dimension,cube,mobile,phone,object,virtual,augmented,reality,gaming,experience",
+      "name": "augmented-reality",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M17.515,3.143l-5-3a1,1,0,0,0-1.03,0l-5,3A1,1,0,0,0,6,4V9a1,1,0,0,0,.485.857l5,3a1,1,0,0,0,1.03,0l5-3A1,1,0,0,0,18,9V4A1,1,0,0,0,17.515,3.143ZM12,2.166,15.056,4,12,5.834,8.944,4Z\" data-color=\"color-2\"></path><path d=\"M22.671,20.936l-3.81-6.445A1,1,0,0,0,18,14H6a1,1,0,0,0-.861.491L1.344,20.912A1.965,1.965,0,0,0,1,22a2,2,0,0,0,2,2H21a2,2,0,0,0,2-2A1.951,1.951,0,0,0,22.671,20.936ZM4.19,20l2.379-4H17.43L19.8,20Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "education,translate,language,translation,translator,interpreter",
+      "name": "translation",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M17,11.94q-.16.626-.922,3.091h1.86q-.719-2.309-.808-2.612C17.072,12.218,17.028,12.058,17,11.94Z\" fill=\"#212121\"></path><path d=\"M22,8H12a2,2,0,0,0-2,2v9a2,2,0,0,0,2,2h6l4,3V21a2,2,0,0,0,2-2V10A2,2,0,0,0,22,8ZM18.819,18,18.3,16.3H15.7L15.181,18H13.55l2.52-7.168h1.85L20.45,18Z\" fill=\"#212121\"></path><path d=\"M12,0H2A2,2,0,0,0,0,2v9a2,2,0,0,0,2,2v3l4-3H9V10a2.828,2.828,0,0,1,.04-.393A9.23,9.23,0,0,1,7.056,8.529,10.268,10.268,0,0,1,3.874,10a4.633,4.633,0,0,0-.768-1.415A8.7,8.7,0,0,0,5.944,7.537,7,7,0,0,1,4.913,6.074a7.077,7.077,0,0,1-.552-1.367c-.471,0-.743.016-1.143.048V3.308a9.853,9.853,0,0,0,1.159.056H6.145v-.48a2.482,2.482,0,0,0-.048-.5H7.7a2.445,2.445,0,0,0-.048.487v.488h1.9a9.774,9.774,0,0,0,1.159-.056V4.755c-.352-.032-.664-.048-1.135-.048A6.278,6.278,0,0,1,9.039,6.25a5.924,5.924,0,0,1-.888,1.3A6.958,6.958,0,0,0,9.617,8.2,2.987,2.987,0,0,1,12,7h2V2A2,2,0,0,0,12,0Z\" data-color=\"color-2\"></path><path d=\"M7.016,6.642a4.51,4.51,0,0,0,1-1.935H5.9A4.562,4.562,0,0,0,7.016,6.642Z\" data-color=\"color-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "industry,technology,robot,delivery,logistics,warehouse,arm,distribution,production,automated,manufacturing,supply,packing",
+      "name": "automated-logistics",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M23.6,7.2,20,4.5V0H18V4.5L14.4,7.2A1,1,0,0,0,14,8v3a1,1,0,0,0,1,1h0a1,1,0,0,0,1-1V8.5l3-2.25L22,8.5V11a1,1,0,0,0,1,1h0a1,1,0,0,0,1-1V8A1,1,0,0,0,23.6,7.2Z\" data-color=\"color-2\"></path><rect x=\"14\" y=\"14\" width=\"10\" height=\"6\" rx=\"1\" fill=\"#212121\"></rect><rect y=\"22\" width=\"24\" height=\"2\" rx=\"1\" fill=\"#212121\"></rect><path d=\"M11,8H1A1,1,0,0,0,0,9V19a1,1,0,0,0,1,1H11a1,1,0,0,0,1-1V9A1,1,0,0,0,11,8Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "new,business,office,building,city,construction,skyscraper,apartment,enterprise,corporation,headquarters,urban,town,modern",
+      "name": "new-construction",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M23.287,3.042l-10-3A1,1,0,0,0,12,1V6h2V2.344l8,2.4V22H16V9a1,1,0,0,0-1-1H5A1,1,0,0,0,4,9V22H2V12H1a1,1,0,0,0-1,1V23a1,1,0,0,0,1,1H23a1,1,0,0,0,1-1V4A1,1,0,0,0,23.287,3.042ZM11.5,21h-3a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,11.5,21Zm0-4h-3a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,11.5,17Zm0-4h-3a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,11.5,13Z\" fill=\"#212121\"></path><rect data-color=\"color-2\" x=\"18\" y=\"8\" width=\"2\" height=\"12\" rx=\"0.5\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "drawing,construction,design,development,architecture,project,creative,blueprint,architect",
+      "name": "blueprint",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M15,7H5A1,1,0,0,0,4,8V18H6V9h4v3h2V9h2v7H10V14H8v3a1,1,0,0,0,1,1h6a1,1,0,0,0,1-1V8A1,1,0,0,0,15,7Z\" data-color=\"color-2\"></path><path d=\"M20,0H19a1,1,0,0,0-1,1V15a1,1,0,0,0,1,1h1a2,2,0,0,1,1.972,2.339A2.079,2.079,0,0,1,19.887,20H2V5H16V3H1A1,1,0,0,0,0,4V21a1,1,0,0,0,1,1H20a4.008,4.008,0,0,0,3.874-3H24V4A4,4,0,0,0,20,0Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "guide,list,reminder,collection,favorites,flag,marked,saved,banner,wishlist,documentation,bookmarks,favourites",
+      "name": "saved-items",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M20,1H16v9.5a.5.5,0,0,1-.5.5.5.5,0,0,1-.325-.121L12,8.159l-3.175,2.72A.5.5,0,0,1,8,10.5V1H4A3,3,0,0,0,1,4V20a3,3,0,0,0,3,3H20a3,3,0,0,0,3-3V4A3,3,0,0,0,20,1Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "application,extension,app,system,design,geometry,shapes,widget,store,components,modules,abstract,addon,framework",
+      "name": "app-store",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><rect x=\"1\" y=\"1\" width=\"10\" height=\"10\" rx=\"2\" fill=\"#212121\"></rect><path data-color=\"color-2\" d=\"M23.428,4.618,19.381.572h0a1.957,1.957,0,0,0-2.762,0L12.572,4.618a1.959,1.959,0,0,0,0,2.764l4.047,4.047a1.957,1.957,0,0,0,2.762,0l4.047-4.046A1.959,1.959,0,0,0,23.428,4.618Z\"></path><rect x=\"13\" y=\"13\" width=\"10\" height=\"10\" rx=\"2\" fill=\"#212121\"></rect><rect x=\"1\" y=\"13\" width=\"10\" height=\"10\" rx=\"2\" fill=\"#212121\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "process,design,geometry,style,illustration,shapes,graphics,illustrator,creative,components,apps,abstract,visual,designer",
+      "name": "geometry",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><circle data-color=\"color-2\" cx=\"18.5\" cy=\"8.5\" r=\"5.5\"></circle><rect x=\"5\" y=\"14\" width=\"9\" height=\"9\" rx=\"1\" fill=\"#212121\"></rect><path d=\"M10.932,9.752a.5.5,0,0,0,0-.5l-4.5-8a.52.52,0,0,0-.872,0l-4.5,8A.5.5,0,0,0,1.5,10h9A.5.5,0,0,0,10.932,9.752Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "power,healthy,fitness,exercise,gym,workout,protein,strength,arm,muscle,bodybuilding,bicep,force",
+      "name": "bicep",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M20.028,11.729c-3.386-1.777-8.315-.237-10.763,1.562l-.1-.146a8.88,8.88,0,0,1-1.418-2.578,20.219,20.219,0,0,1-.237-2.46q.168-.009.336-.033l.1-.02a5.463,5.463,0,0,0,2.723-1.773,2.215,2.215,0,0,0,.1-2.33,4.48,4.48,0,0,0,.214-1.575A2.078,2.078,0,0,0,10.253.823,6.147,6.147,0,0,0,6.492,0C3.377,0,1.605,6.628.827,10.579c-1.03,5.22.6,10.3,1.731,11.449,1.589,1.619,4.96,1.455,5.97,1.364A14.289,14.289,0,0,0,13.275,24c.255,0,.517,0,.783-.01a13.827,13.827,0,0,0,7.118-1.973A5.659,5.659,0,0,0,23.5,17.271,6.9,6.9,0,0,0,20.028,11.729Zm-1.142,5.915a9.806,9.806,0,0,1-5.064,1.386,10.6,10.6,0,0,1-2.5-.3.75.75,0,1,1,.352-1.458,8.537,8.537,0,0,0,6.438-.915.751.751,0,0,1,.772,1.288Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "position,stats,sport,chart,graph,report,performance,seo,rating,ranking,rank,poll",
+      "name": "ranking",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M7.342,10.316l.894.448,1.135-2.27,6.048,4.32a.988.988,0,0,0,.762.169,1,1,0,0,0,.651-.428l6-9a1,1,0,0,0-1.664-1.11l-5.427,8.141-6.16-4.4a1,1,0,0,0-1.476.367L6.361,10.042A3.026,3.026,0,0,1,7.342,10.316Z\" fill=\"#212121\"></path><path d=\"M5.292,16H3.382L1.105,20.553a1,1,0,0,0,1.79.894L5.553,16.13Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M16,19a1.008,1.008,0,0,1-.447-.105L5.764,14H2a1,1,0,0,1,0-2H6a1,1,0,0,1,.447.105l9.481,4.741,5.517-3.678a1,1,0,1,1,1.11,1.664l-6,4A1,1,0,0,1,16,19Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "agreement,deal,handshake,privacy,partnership,policy",
+      "name": "privacy-policy",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><circle cx=\"5\" cy=\"4.5\" r=\"3\" fill=\"#212121\"></circle> <circle cx=\"19\" cy=\"4.5\" r=\"3\" data-color=\"color-2\"></circle> <path d=\"M20,9c-2.875,0-4.359,2.065-5.25,3.324a10.349,10.349,0,0,1-1.838,2.138,2.244,2.244,0,0,1,.984,2.387A9.575,9.575,0,0,0,16,14.837V22a1,1,0,0,0,1,1h6a1,1,0,0,0,1-1V13A4,4,0,0,0,20,9Z\" data-color=\"color-2\"></path> <path d=\"M12.268,15.231A7.9,7.9,0,0,1,9.25,12.324C8.359,11.065,6.875,9,4,9a4,4,0,0,0-4,4v9a1,1,0,0,0,1,1H7a1,1,0,0,0,1-1V14.837a9.126,9.126,0,0,0,3.149,2.631,1.251,1.251,0,0,0,1.119-2.237Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "select,all,list,check,filter,filtering,mark,todo,completed,done,checked",
+      "name": "check-all",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M4.549,19.107.171,14,2,12l3.834,3.006L17,3l2,1L7.664,19.011a2,2,0,0,1-2.8.391A2.04,2.04,0,0,1,4.549,19.107Z\"></path><path d=\"M23,9H20a1,1,0,0,1,0-2h3a1,1,0,0,1,0,2Z\" fill=\"#212121\"></path><path d=\"M23,14H16a1,1,0,0,1,0-2h7a1,1,0,0,1,0,2Z\" fill=\"#212121\"></path><path d=\"M23,19H13a1,1,0,0,1,0-2H23a1,1,0,0,1,0,2Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "layer,stack,picture,copy,gallery,image,photo,photos,pictures,img,thumbnails",
+      "name": "img-stack",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M20,2H4V1A1,1,0,0,1,5,0H19a1,1,0,0,1,1,1Z\"></path><path d=\"M23,4H1A1,1,0,0,0,0,5V23a1,1,0,0,0,1,1H23a1,1,0,0,0,1-1V5A1,1,0,0,0,23,4ZM7,8a2,2,0,1,1-2,2A2,2,0,0,1,7,8ZM19.926,18.763A.5.5,0,0,1,19.5,19H5.5a.5.5,0,0,1-.312-.891l10-8a.5.5,0,0,1,.759.167l4,8A.5.5,0,0,1,19.926,18.763Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "glass,bottle,drink,beverage,soft,coke,soda",
+      "name": "soft-drink",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M7.938,22.308,7.914,22H5.33c-.186,0-.33-.256-.33-.477a3.533,3.533,0,0,1,.205-.927,7.923,7.923,0,0,0,.421-2.468,15.029,15.029,0,0,0-.18-2.083,28.074,28.074,0,0,1-.289-4.119A16.64,16.64,0,0,1,6.336,6.6,9.027,9.027,0,0,0,7,4V3H9V4a9.027,9.027,0,0,0,.664,2.6l.145.422c.064,0,.126-.02.191-.02h1.911c-.122-.373-.244-.73-.357-1.057A9.388,9.388,0,0,1,11,4V1a1,1,0,0,0-1-1H6A1,1,0,0,0,5,1V4a9.388,9.388,0,0,1-.554,1.943,18.517,18.517,0,0,0-1.289,5.983,29.777,29.777,0,0,0,.307,4.383,13.36,13.36,0,0,1,.162,1.819,6.046,6.046,0,0,1-.335,1.889A5.117,5.117,0,0,0,3,21.523,2.409,2.409,0,0,0,5.33,24H8.485A3.93,3.93,0,0,1,7.938,22.308Z\" fill=\"#212121\"></path> <path d=\"M20.734,9.32A1,1,0,0,0,20,9H10a1,1,0,0,0-1,1.077l.929,12.077A2.01,2.01,0,0,0,11.926,24h6.148a2.008,2.008,0,0,0,1.994-1.846L21,10.077A1,1,0,0,0,20.734,9.32Z\" data-color=\"color-2\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "food,movie,snack,popcorn,cinema",
+      "name": "popcorn",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M19.858,4A4,4,0,0,0,16,1a3.827,3.827,0,0,0-1.169.182,3.981,3.981,0,0,0-5.662,0A3.827,3.827,0,0,0,8,1,4,4,0,0,0,4.142,4Z\" data-color=\"color-2\"></path> <polygon points=\"13.999 24 14.999 6 9.001 6 10.001 24 13.999 24\" fill=\"#212121\"></polygon> <path d=\"M7,6H3a1,1,0,0,0-.992,1.124l2,16A1,1,0,0,0,5,24H8Z\" fill=\"#212121\"></path> <path d=\"M21.75,6.338A1,1,0,0,0,21,6H17L16,24h3a1,1,0,0,0,.992-.876l2-16A1,1,0,0,0,21.75,6.338Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "food,bowl,rice,cereal,porridge,grains",
+      "name": "rice",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M23,11H1a1,1,0,0,0-1,1A12.029,12.029,0,0,0,7.021,22.909,1,1,0,0,0,7.437,23h9.126a1,1,0,0,0,.416-.091A12.029,12.029,0,0,0,24,12,1,1,0,0,0,23,11Z\" fill=\"#212121\"></path> <path d=\"M3.171,10H20.829a1,1,0,0,0,.943-1.333,3.983,3.983,0,0,0-1.418-1.895l3.478-5.217L22.168.445l-3.726,5.59A3.817,3.817,0,0,0,18,6a3.957,3.957,0,0,0-1.466.279l1.408-3.943-1.884-.672L14.721,5.409a3.95,3.95,0,0,0-2.89-.227,3.979,3.979,0,0,0-6.3.845,4.009,4.009,0,0,0-3.306,2.64A1,1,0,0,0,3.171,10Z\" data-color=\"color-2\"></path> <circle cx=\"4\" cy=\"3\" r=\"1\" fill=\"#212121\"></circle> <circle cx=\"12\" cy=\"2\" r=\"1\" fill=\"#212121\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "delete,remove,schedule,time,volume,minus,alarm,timer,sound,alert,cancel,disabled,bell,event,mute,negative,quiet,silence",
+      "name": "alarm-disable",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M13.007,23.822A3,3,0,0,0,14.826,22H9.174a3,3,0,0,0,3.833,1.819Z\" fill=\"#212121\"></path><path d=\"M2.482,19.852A1,1,0,0,0,3,20H4L19.287,4.713A8,8,0,0,0,4,8v3.982a12.853,12.853,0,0,1-1.855,6.494A1,1,0,0,0,2.482,19.852Z\" fill=\"#212121\"></path><path d=\"M20,11.991V8.242L8.245,20H21a1,1,0,0,0,.855-1.518A12.851,12.851,0,0,1,20,11.991Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M1,24a1,1,0,0,1-.707-1.707l22-22a1,1,0,0,1,1.414,1.414l-22,22A1,1,0,0,1,1,24Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "zoom,glass,view,search,find,lens,magnify,explore,lookup,magnifier,magnifying",
+      "name": "zoom",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M22.561,20.439l-5.233-5.233a9.028,9.028,0,1,0-2.122,2.122l5.233,5.233a1.5,1.5,0,0,0,2.122-2.122ZM3,10a7,7,0,1,1,7,7A7.008,7.008,0,0,1,3,10Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "navigation,gps,location,energy,environment,travel,earth,globe,world,map,planet,maps",
+      "name": "world",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M12,0A12,12,0,1,0,24,12,12.013,12.013,0,0,0,12,0Zm0,22a9.965,9.965,0,0,1-7.132-3l1.455-1.222a1,1,0,0,0,.318-1.04l-.7-2.472a1.015,1.015,0,0,0-.231-.409L4.474,12.536l-.187-.319.64-.547,2.487-1.258a1,1,0,0,0,.538-.746l.4-2.74A1,1,0,0,0,8.1,6.1L6.451,4.34a.877.877,0,0,0-.094-.089L6.039,3.99a9.929,9.929,0,0,1,5.54-1.969l.448.745.586,1.713a1.012,1.012,0,0,0,.319.455l2.284,1.837a1,1,0,0,0,.627.221.934.934,0,0,0,.118-.007l3-.356a1.011,1.011,0,0,0,.375-.123l.718-.408A9.981,9.981,0,0,1,12,22Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M19.894,12.441l-1.135-2.178a1,1,0,0,0-.655-.511l-2.357-.564a.994.994,0,0,0-.564.03L12.956,10a1,1,0,0,0-.451.319l-1.338,1.973a1.25,1.25,0,0,0-.073.927l.812,2.062L11.406,17a.985.985,0,0,0,.188.844l.657,1.735a1,1,0,0,0,.772.364l.064,0,2.339-.15a1,1,0,0,0,.618-.267l1.762-1.641a1,1,0,0,0,.233-.325l1.882-4.25A1,1,0,0,0,19.894,12.441Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "browser,layout,app,tab,design,internet,web,development,website,mockup,site,wireframe,webpage",
+      "name": "wireframe",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M23,6V4a3,3,0,0,0-3-3H4A3,3,0,0,0,1,4V6Z\"></path><path d=\"M1,8V20a3,3,0,0,0,3,3H7V8Z\" fill=\"#212121\"></path><path d=\"M9,23H20a3,3,0,0,0,3-3V8H9Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "sport,snow,winter,games,olympic,boarding,snowboard,olympics",
+      "name": "snowboarding",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><circle cx=\"14\" cy=\"3\" r=\"3\" fill=\"#212121\"></circle> <path d=\"M6.809,11.907a2.5,2.5,0,0,0,1.808,3.436l2.206.442L10.1,19.4l2.029.1L12.98,15.2A1,1,0,0,0,12.2,14.02l-.354-.071,1.608-3.913,4.8,3.357,1.147-1.639-5.82-4.073a1,1,0,0,0-.126-.076l-3-1.5a1,1,0,0,0-.131-.054L3.368,3.735l-.633,1.9L8.653,7.605Z\" fill=\"#212121\"></path> <path d=\"M16.089,19.7l.981-3.931a1.5,1.5,0,0,0-1.213-1.845l-2.566-.419a1.833,1.833,0,0,1,.67,1.886l-.048.242L15,15.812,14.051,19.6Z\" fill=\"#212121\"></path> <rect data-color=\"color-2\" x=\"11\" y=\"10.487\" width=\"2\" height=\"22.025\" transform=\"translate(-10.074 32.409) rotate(-87.131)\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "arrow,direction,top,up,cloud,data,file,input,save,share,storage,sync,transfer,backup,ftp,hosting,import,server,upload,folder,document,paper,item",
+      "name": "upload-file",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M22.965,21.737l-3-11A1,1,0,0,0,19,10H16v2h2.236l2.454,9H3.31l2.454-9H8V10H5a1,1,0,0,0-.965.737l-3,11A1.016,1.016,0,0,0,1,22a1,1,0,0,0,1,1H22a1.016,1.016,0,0,0,.263-.035A1,1,0,0,0,22.965,21.737Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M7.5,6H11V17a1,1,0,0,0,2,0V6h3.5a.5.5,0,0,0,.372-.834l-4.5-5a.516.516,0,0,0-.744,0l-4.5,5A.5.5,0,0,0,7.5,6Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "switch,ui,interface,control,preferences,options,settings,configuration,setting,switcher,switches,toggle,tuner",
+      "name": "toggle",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M16,4H8A8,8,0,0,0,8,20h8A8,8,0,0,0,16,4ZM8,18a6,6,0,1,1,6-6A6,6,0,0,1,8,18Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "delete,remove,can,waste,garbage,recycle,recycling,bin,trash,dump,dustbin,junk,rubbish,trashcan",
+      "name": "trash-can",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M3.87,21.214A3.01,3.01,0,0,0,6.862,24H17.138a3.01,3.01,0,0,0,2.992-2.786L21.074,8H2.926Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M23,4H17V1a1,1,0,0,0-1-1H8A1,1,0,0,0,7,1V4H1A1,1,0,0,0,1,6H23a1,1,0,0,0,0-2ZM9,2h6V4H9Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "arrow,progress,version,24h,availability,available,career,clock,daily,day,every,freelance,freelancer,monthly,schedule,weekly,yearly,time,watch,wait,alarm,timer,alert,appointment,countdown,track,event,tracking,deadline,hour,history",
+      "name": "time-machine",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M12,0A12.013,12.013,0,0,0,0,12a1,1,0,0,0,2,0,10.023,10.023,0,1,1,4.379,8.26L8.184,18a.5.5,0,0,0-.349-.809l-6.672-.568a.5.5,0,0,0-.519.65l2.042,6.377a.5.5,0,0,0,.385.339.476.476,0,0,0,.091.009.5.5,0,0,0,.391-.189l1.578-1.98A12,12,0,1,0,12,0Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M12,4a1,1,0,0,0-1,1v7a1,1,0,0,0,1,1h7a1,1,0,0,0,0-2H13V5A1,1,0,0,0,12,4Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "clock,schedule,time,watch,furniture,alarm,timer,alert,track,event,tracking,deadline,hour,history",
+      "name": "time-clock",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M22,13a1,1,0,0,1,0-2h1.949A12.006,12.006,0,0,0,13,.051V2a1,1,0,0,1-2,0V.051A12.006,12.006,0,0,0,.051,11H2a1,1,0,0,1,0,2H.051A12.006,12.006,0,0,0,11,23.949V22a1,1,0,0,1,2,0v1.949A12.006,12.006,0,0,0,23.949,13Zm-6,0H12a1,1,0,0,1-.832-.445l-4-6a1,1,0,1,1,1.664-1.11L12.535,11H16a1,1,0,0,1,0,2Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "interface,organize,shopping,price,discount,ecommerce,sale,category,label,tag,store,attribute",
+      "name": "tag",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M22.121,10.706,12.706,1.293A1,1,0,0,0,12,1H2A1,1,0,0,0,1,2V12a1,1,0,0,0,.293.707l9.413,9.415a3,3,0,0,0,4.243,0l7.172-7.172a3,3,0,0,0,0-4.243ZM8,10a2,2,0,1,1,2-2A2,2,0,0,1,8,10Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "sunglasses,emoticon,smiley,cheerful,happy,smile,cool",
+      "name": "smiling-face-sunglasses",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M12,0A12,12,0,1,0,24,12,12,12,0,0,0,12,0Zm3.772,17.333a4,4,0,0,1-7.544,0,1,1,0,1,1,1.886-.666,2,2,0,0,0,3.772,0,1,1,0,0,1,1.886.666Zm2.582-4.187h0a3.294,3.294,0,0,1-4.5-1.206h0L12.707,9.954a.745.745,0,0,0-1.412,0l-1.147,1.987A3.294,3.294,0,1,1,7.376,7L12,7.021,16.626,7a3.294,3.294,0,0,1,1.728,6.146Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "holidays,object,emoticon,smiley,danger,dead,death,head,poison,skeleton,skull",
+      "name": "skull",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M12,0A11.013,11.013,0,0,0,1,11a10.9,10.9,0,0,0,4,8.471V22a2,2,0,0,0,2,2H8V21a1,1,0,0,1,2,0v3h4V21a1,1,0,0,1,2,0v3h1a2,2,0,0,0,2-2V19.471A10.9,10.9,0,0,0,23,11,11.013,11.013,0,0,0,12,0ZM7.5,14A2.5,2.5,0,1,1,10,11.5,2.5,2.5,0,0,1,7.5,14Zm9,0A2.5,2.5,0,1,1,19,11.5,2.5,2.5,0,0,1,16.5,14Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "file,post,folder,document,text,note,report,page,paper,item,draft,single,letter,content,sheet,folded,article,blog",
+      "name": "file-text",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M14,0H3A1,1,0,0,0,2,1V23a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V8H15a1,1,0,0,1-1-1ZM5.5,17h13a.5.5,0,0,1,.5.5v1a.5.5,0,0,1-.5.5H5.5a.5.5,0,0,1-.5-.5v-1A.5.5,0,0,1,5.5,17Zm0-5h13a.5.5,0,0,1,.5.5v1a.5.5,0,0,1-.5.5H5.5a.5.5,0,0,1-.5-.5v-1A.5.5,0,0,1,5.5,12Zm5-3h-5A.5.5,0,0,1,5,8.5v-1A.5.5,0,0,1,5.5,7h5a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,10.5,9Z\" fill=\"#212121\"></path><polygon data-color=\"color-2\" points=\"21.414 6 16 6 16 0.586 21.414 6\"></polygon></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "user,profile,account,avatar,contact,woman,man,person,users,member,human,friend,follower",
+      "name": "profile",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M14,14H10a8.009,8.009,0,0,0-8,8,1,1,0,0,0,.695.953A33.287,33.287,0,0,0,12,24a33.287,33.287,0,0,0,9.305-1.047A1,1,0,0,0,22,22,8.009,8.009,0,0,0,14,14Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M12,12c3.1,0,5.5-3.47,5.5-6.455a5.5,5.5,0,1,0-11,0C6.5,8.53,8.9,12,12,12Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "files,share,connection,social,user,network,sharing,folder,document,format,profile,account,connect,paper,users,member,shared",
+      "name": "file-shared",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M21,0H3A1,1,0,0,0,2,1V23a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V1A1,1,0,0,0,21,0ZM15,6a2,2,0,1,1-2,2A2,2,0,0,1,15,6ZM9,9a2,2,0,1,1-2,2A2,2,0,0,1,9,9ZM5,18a4,4,0,0,1,8,0Zm9.188-3a6.028,6.028,0,0,0-2.433-2.324A3.993,3.993,0,0,1,19,15Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "interface,control,preferences,tool,system,building,edit,options,settings,filter,diy,adjust,adjustment,option,project,configuration,configure,gear,parameter,parameters,setting,setup,tools,build,engine,repair,screwdriver,wrench",
+      "name": "settings",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M6.79,9.5,9.222,7.354a6.69,6.69,0,0,1-.043-.862v-.02L2.854.146a.5.5,0,0,0-.708,0l-2,2a.5.5,0,0,0,0,.708Z\"></path><path data-color=\"color-2\" d=\"M20.107,14.4a8.456,8.456,0,0,1-.839.234l-.114.02a9.8,9.8,0,0,1-1.433.107,9.57,9.57,0,0,1-1.044-.058l-3.616,4.065L17.093,22.8A3.975,3.975,0,0,0,19.909,24h.042A4.05,4.05,0,0,0,22.8,17.1Z\"></path><path d=\"M23.628,4.427a.5.5,0,0,0-.82-.179L19.943,7.1,16.9,4.068l2.863-2.85A.494.494,0,0,0,19.9.771.5.5,0,0,0,19.6.405,4.866,4.866,0,0,0,17,.045a6.376,6.376,0,0,0-5.822,6.473,4.9,4.9,0,0,0,.235,1.569L1.367,16.939a4.076,4.076,0,0,0-.329,5.752l.086.094a3.939,3.939,0,0,0,5.564.124,3.733,3.733,0,0,0,.322-.347l8.914-10.021a7.524,7.524,0,0,0,2.938.135,6.427,6.427,0,0,0,4.883-4.51A5.846,5.846,0,0,0,23.628,4.427Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "control,preferences,tool,system,edit,options,settings,filter,adjust,adjustment,option,wheel,configuration,configure,gear,parameter,parameters,setting,setup,tools,engine,cogwheel",
+      "name": "cogwheel",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M24,14V10l-3.338-.417a8.934,8.934,0,0,0-.826-2L21.9,4.929,19.071,2.1,16.418,4.164a8.934,8.934,0,0,0-2-.826L14,0H10L9.583,3.338a8.934,8.934,0,0,0-2,.826L4.929,2.1,2.1,4.929,4.164,7.582a8.934,8.934,0,0,0-.826,2L0,10v4l3.338.417a8.934,8.934,0,0,0,.826,2L2.1,19.071,4.929,21.9l2.653-2.063a8.934,8.934,0,0,0,2,.826L10,24h4l.417-3.338a8.934,8.934,0,0,0,2-.826L19.071,21.9,21.9,19.071l-2.063-2.653a8.934,8.934,0,0,0,.826-2ZM12,16a4,4,0,1,1,4-4A4,4,0,0,1,12,16Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "communication,send,email,mail,message,messages,contact,write,paper,letter,news,fly,airplane,flight,plane,sending",
+      "name": "send-message",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M14.619,23a1.05,1.05,0,0,1-.938-.579L10.572,16.2a1.052,1.052,0,0,1,.075-1.066l5.02-6.8-6.8,5.018a1.05,1.05,0,0,1-1.065.075L1.579,10.318A1.048,1.048,0,0,1,1.685,8.4L21.59,1.064a1.047,1.047,0,0,1,1.345,1.345L15.6,22.315a1.046,1.046,0,0,1-.925.683Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "arrow,forward,right,rotate,direction,keyboard,move,navigation,out,position,next,onward,onwards,media,clockwise,picture,image,photo,multimedia",
+      "name": "rotate-right",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><rect x=\"7\" y=\"9\" width=\"14\" height=\"14\" rx=\"1\" fill=\"#212121\"></rect><path data-color=\"color-2\" d=\"M12,3V6.5a.5.5,0,0,0,.288.453A.507.507,0,0,0,12.5,7a.494.494,0,0,0,.32-.116l6-5A.5.5,0,0,0,18.5,1H9A7.008,7.008,0,0,0,2,8v3a1,1,0,0,0,2,0V8A5.006,5.006,0,0,1,9,3Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "communication,conversation,talk,contact,mobile,phone,telephone,call,ringing,calling",
+      "name": "phone-call",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M21.2,17.676l-5.59-2.4a1,1,0,0,0-1.1.211l-2.334,2.3A18.952,18.952,0,0,1,8.8,15.2a19.151,19.151,0,0,1-2.588-3.37L8.512,9.5A1,1,0,0,0,8.72,8.4L6.32,2.81a1,1,0,0,0-1.17-.573L.75,3.4A1,1,0,0,0,0,4.4,21.143,21.143,0,0,0,5.985,18.016,21.135,21.135,0,0,0,19.606,24a1,1,0,0,0,1-.749l1.162-4.4A1,1,0,0,0,21.2,17.676Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M18,10a1,1,0,0,0,2,0,6.006,6.006,0,0,0-6-6,1,1,0,0,0,0,2A4,4,0,0,1,18,10Z\"></path><path data-color=\"color-2\" d=\"M14,0a1,1,0,0,0,0,2,8.009,8.009,0,0,1,8,8,1,1,0,0,0,2,0A10.011,10.011,0,0,0,14,0Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "animal,nature,emoticon,smiley,penguin",
+      "name": "penguin",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M19.975,7.487A7.983,7.983,0,0,0,11.754,0,8.213,8.213,0,0,0,4,8.293V17c0,2.542-2.681,5.267-2.708,5.294A1,1,0,0,0,2,24H13a7.008,7.008,0,0,0,7-7V11.25L23,9ZM14,11a3,3,0,1,1,3-3A3,3,0,0,1,14,11Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "file,communication,post,document,note,degree,diploma,report,paper,draft,news,parchment,article,blog",
+      "name": "news",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M22,0H6A1,1,0,0,0,5,1V20.5a1.5,1.5,0,0,1-3,0V14H4V12H1a1,1,0,0,0-1,1v7.5A3.5,3.5,0,0,0,3.5,24H20a3.015,3.015,0,0,0,3-3V1A1,1,0,0,0,22,0ZM18.5,19h-9a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h9a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,18.5,19Zm0-5h-9a.5.5,0,0,1-.5-.5v-1a.5.5,0,0,1,.5-.5h9a.5.5,0,0,1,.5.5v1A.5.5,0,0,1,18.5,14Zm0-5h-9A.5.5,0,0,1,9,8.5v-4A.5.5,0,0,1,9.5,4h9a.5.5,0,0,1,.5.5v4A.5.5,0,0,1,18.5,9Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "arrow,top,up,upwards,window,export,start,application,browser,app,fire,new,open,tab",
+      "name": "open-in-browser",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M12.4,8.2a.518.518,0,0,0-.8,0l-4.5,6a.5.5,0,0,0,.4.8H11v8a1,1,0,0,0,2,0V15h3.5a.5.5,0,0,0,.4-.8Z\"></path><path d=\"M21,0H3A3,3,0,0,0,0,3V16a3,3,0,0,0,3,3H7V17H3a1,1,0,0,1-1-1V6H22V16a1,1,0,0,1-1,1H17v2h4a3,3,0,0,0,3-3V3A3,3,0,0,0,21,0Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "glasses,emoticon,smiley,cheerful,happy,smile,geek,nerd,nerdy",
+      "name": "smiling-face-glasses",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><circle data-color=\"color-2\" cx=\"17\" cy=\"10\" r=\"2\"></circle> <circle data-color=\"color-2\" cx=\"7\" cy=\"10\" r=\"2\"></circle> <path d=\"M12,0A12,12,0,1,0,24,12,12,12,0,0,0,12,0Zm0,20a4,4,0,0,1-4-4h8A4,4,0,0,1,12,20Zm5-6a4,4,0,0,1-4-4,1,1,0,0,0-2,0,4.039,4.039,0,1,1-.8-2.381,2.941,2.941,0,0,1,3.61,0A3.994,3.994,0,1,1,17,14Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "education,school,science,healthcare,health,medical,biology,laboratory,microscope,research,virus",
+      "name": "microscope",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M13.494,18.405l6.131-3.539a1,1,0,1,0-1-1.732L12.5,16.673A7,7,0,0,1,13.494,18.405Z\"></path><path d=\"M21,22H12V21a5.006,5.006,0,0,0-5-5,4.946,4.946,0,0,0-1.787.345L4.9,15.861A4.988,4.988,0,0,1,6.335,8.773l1.382-.8,1.417,2.454a1,1,0,0,0,1.366.366l.866-.5.7,1.206a1,1,0,0,0,.867.5,1,1,0,0,0,.866-1.5l-.7-1.206.866-.5a1,1,0,0,0,.366-1.366L10.33.5A1,1,0,0,0,8.964.134l-3.464,2A1,1,0,0,0,5.134,3.5L6.717,6.243l-1.41.816a6.984,6.984,0,0,0-2.063,9.916l.282.442A4.977,4.977,0,0,0,2,21v2a1,1,0,0,0,1,1H21a1,1,0,0,0,0-2Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "navigation,lines,list,bars,gallery,hamburger,menu,options,settings,burger",
+      "name": "menu",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M23,13H1c-0.552,0-1-0.447-1-1s0.448-1,1-1h22c0.552,0,1,0.447,1,1S23.552,13,23,13z\"></path> <path fill=\"#212121\" d=\"M23,6H12c-0.552,0-1-0.447-1-1s0.448-1,1-1h11c0.552,0,1,0.447,1,1S23.552,6,23,6z\"></path> <path fill=\"#212121\" d=\"M12,20H1c-0.552,0-1-0.447-1-1s0.448-1,1-1h11c0.552,0,1,0.447,1,1S12.552,20,12,20z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "arrow,repeat,arrows,sync,infinite,infinity,load,loading,loop,process,refresh,reload,replay,update,shuffle",
+      "name": "cycle",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M9,17H7A5,5,0,0,1,7,7V9.5a.5.5,0,0,0,.807.395l4.5-3.5a.5.5,0,0,0,0-.79l-4.5-3.5A.5.5,0,0,0,7,2.5V5A7,7,0,0,0,7,19H9a1,1,0,0,0,0-2Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M17,5H15a1,1,0,0,0,0,2h2a5,5,0,0,1,0,10V14.5a.5.5,0,0,0-.807-.395l-4.5,3.5a.5.5,0,0,0,0,.79l4.5,3.5A.5.5,0,0,0,17,21.5V19A7,7,0,0,0,17,5Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "lock,login,password,security,safe,safety,locked,padlock,privacy,protected,protection,secure,closed,encryption,protect,policy",
+      "name": "lock",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M19,10H5a3,3,0,0,0-3,3v8a3,3,0,0,0,3,3H19a3,3,0,0,0,3-3V13A3,3,0,0,0,19,10Zm-7,9a2,2,0,1,1,2-2A2,2,0,0,1,12,19Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M18,8H16V6a3.958,3.958,0,0,0-3.911-4h-.042A3.978,3.978,0,0,0,8,5.911V8H6V5.9A5.961,5.961,0,0,1,11.949,0h.061A5.979,5.979,0,0,1,18,6.01Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "share,connection,connections,web,attachment,chain,hyperlink,link,linked,links,url",
+      "name": "web-hyperlink",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M21,8.424v2.356c0.609,0.549,1,1.337,1,2.22v4c0,1.654-1.346,3-3,3h-9c-1.654,0-3-1.346-3-3 v-4c0-1.654,1.346-3,3-3h5V8h-5c-2.757,0-5,2.243-5,5v4c0,2.757,2.243,5,5,5h9c2.757,0,5-2.243,5-5v-4 C24,10.955,22.763,9.198,21,8.424z\"></path> <path fill=\"#212121\" d=\"M14,2H5C2.243,2,0,4.243,0,7v4c0,2.045,1.237,3.802,3,4.576V13.22C2.391,12.67,2,11.883,2,11V7 c0-1.654,1.346-3,3-3h9c1.654,0,3,1.346,3,3v4c0,1.654-1.346,3-3,3H9v2h5c2.757,0,5-2.243,5-5V7C19,4.243,16.757,2,14,2z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "up,hand,finger,gesture,favorite,favourite,approve,like,thumbs,vote,rate,thumb",
+      "name": "thumb-up",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M4,11H1a1,1,0,0,0-1,1V23a1,1,0,0,0,1,1H4Z\"></path> <path d=\"M22.539,10.4A4,4,0,0,0,19.5,9H13V4c0-2.206-.794-4-3-4a1,1,0,0,0-.965.737L6,11V24H18.426a3.979,3.979,0,0,0,3.954-3.392l1.076-7A4,4,0,0,0,22.539,10.4Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "layer,layers,order,stack,sheets,archive,sheet,layering,overlay,stackable,stacking",
+      "name": "stack",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M23.746,16.564l-1.62-.915-8.9,5.028a2.5,2.5,0,0,1-2.459,0l-8.9-5.029-1.62.915a.5.5,0,0,0,0,.872l11.5,6.5a.5.5,0,0,0,.492,0l11.5-6.5a.5.5,0,0,0,0-.872Z\"></path><path data-color=\"color-2\" d=\"M23.746,11.564l-1.62-.915-8.9,5.028a2.5,2.5,0,0,1-2.459,0l-8.9-5.029-1.62.915a.5.5,0,0,0,0,.872l11.5,6.5a.5.5,0,0,0,.492,0l11.5-6.5a.5.5,0,0,0,0-.872Z\"></path><path d=\"M23.746,6.564l-11.5-6.5a.507.507,0,0,0-.492,0l-11.5,6.5a.5.5,0,0,0,0,.872l11.5,6.5a.5.5,0,0,0,.492,0l11.5-6.5a.5.5,0,0,0,0-.872Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "education,school,glass,study,science,healthcare,medical,chemistry,flask,test,tube,laboratory,research,equipment,beaker,chemical,drug,experiment",
+      "name": "chemistry",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><rect data-color=\"color-2\" x=\"5\" width=\"14\" height=\"4\" rx=\"1\"></rect><path d=\"M16,12.649V5H14v8a1,1,0,0,0,.219.625L16.919,17H7.081l2.7-3.375A1,1,0,0,0,10,13V5H8v7.649L3.469,18.313A3.5,3.5,0,0,0,6.2,24H17.8a3.5,3.5,0,0,0,2.733-5.687Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "emoticon,smiley,kiss,lips,love,romantic",
+      "name": "kiss",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M12,0A12,12,0,1,0,24,12,12,12,0,0,0,12,0ZM5,9A1,1,0,0,1,7,9,1,1,0,0,0,9,9a1,1,0,0,1,2,0A3,3,0,0,1,5,9Zm7,10H11a1,1,0,0,1,0-2h1a1,1,0,0,0,0-2H11a1,1,0,0,1,0-2h1a3,3,0,0,1,0,6Zm4-7a3,3,0,0,1-3-3,1,1,0,0,1,2,0,1,1,0,0,0,2,0,1,1,0,0,1,2,0A3,3,0,0,1,16,12Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "password,key,object,secure,access,license",
+      "name": "access-key",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M23.707,7.293L20.414,4l2.293-2.293c0.391-0.391,0.391-1.023,0-1.414s-1.023-0.391-1.414,0 L10.901,10.685c0.262,0.204,0.517,0.42,0.756,0.658c0.239,0.239,0.454,0.494,0.658,0.756L16,8.414l3.293,3.293 C19.488,11.902,19.744,12,20,12s0.512-0.098,0.707-0.293l3-3C24.098,8.316,24.098,7.684,23.707,7.293z\"></path> <path fill=\"#212121\" d=\"M6,23c1.603,0,3.109-0.624,4.243-1.757S12,18.603,12,17s-0.624-3.109-1.757-4.243S7.603,11,6,11 s-3.109,0.624-4.243,1.757S0,15.397,0,17s0.624,3.109,1.757,4.243S4.397,23,6,23z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "direction,navigation,location,way,path,shape,vector,track,route,street,road,journey",
+      "name": "journey",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M19,19c0,1.654-1.346,3-3,3s-3-1.346-3-3V5c0-2.757-2.243-5-5-5S3,2.243,3,5v9h2V5 c0-1.654,1.346-3,3-3s3,1.346,3,3v14c0,2.757,2.243,5,5,5s5-2.243,5-5v-9h-2V19z\"></path> <circle fill=\"#212121\" cx=\"20\" cy=\"4\" r=\"4\"></circle> <circle fill=\"#212121\" cx=\"4\" cy=\"20\" r=\"4\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "media,text,picture,editing,image,photo,multimedia",
+      "name": "img",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M20,1H4A3,3,0,0,0,1,4V20a3,3,0,0,0,3,3H20a3,3,0,0,0,3-3V4A3,3,0,0,0,20,1ZM9.5,6A1.5,1.5,0,1,1,8,7.5,1.5,1.5,0,0,1,9.5,6Zm9.425,10.763A.5.5,0,0,1,18.5,17H5.5a.5.5,0,0,1-.424-.765l2.5-4a.5.5,0,0,1,.808-.055l2.095,2.514L14.6,9.2a.515.515,0,0,1,.445-.2.5.5,0,0,1,.4.274l3.5,7A.5.5,0,0,1,18.925,16.763Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "office,building,estate,home,house,real,page,address,apartment,homepage,local,shelter",
+      "name": "home-3",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M23.633,10.226l-11-9a1,1,0,0,0-1.266,0L5,6.435V4.5A.5.5,0,0,0,4.5,4h-1a.5.5,0,0,0-.5.5V8.071L.367,10.226a1,1,0,0,0,1.266,1.548L3,10.656V22a1,1,0,0,0,1,1h6V18.5a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5V23h6a1,1,0,0,0,1-1V10.656l1.367,1.118a1,1,0,0,0,1.29-1.529ZM13.5,14h-3a.5.5,0,0,1-.5-.5v-3a.5.5,0,0,1,.5-.5h3a.5.5,0,0,1,.5.5v3A.5.5,0,0,1,13.5,14Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "day,award,favorite,favourite,love,romantic,like,heart,valentine,wishlist,dating,relationship,romance",
+      "name": "favorite",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path fill=\"#212121\" d=\"M21.95,3.051C20.627,1.729,18.87,1,17,1s-3.627,0.729-4.949,2.05C12.034,3.067,12.017,3.084,12,3.102 c-0.017-0.018-0.033-0.034-0.05-0.051C10.627,1.729,8.87,1,7,1S3.373,1.729,2.05,3.051S0,6.13,0,8s0.728,3.627,2.05,4.949l9.95,9.95 l9.95-9.95C23.272,11.627,24,9.87,24,8C24,6.131,23.272,4.373,21.95,3.051z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "line,interface,layout,list,shape,gallery,boxes,column,grid,row,table,tile,view,square,squares",
+      "name": "grid-interface",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><rect x=\"1\" y=\"1\" width=\"9\" height=\"9\" rx=\"1\" ry=\"1\" fill=\"#212121\"></rect> <rect data-color=\"color-2\" x=\"14\" y=\"1\" width=\"9\" height=\"9\" rx=\"1\" ry=\"1\"></rect> <rect data-color=\"color-2\" x=\"1\" y=\"14\" width=\"9\" height=\"9\" rx=\"1\" ry=\"1\"></rect> <rect x=\"14\" y=\"14\" width=\"9\" height=\"9\" rx=\"1\" ry=\"1\" fill=\"#212121\"></rect></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "exchange,box,shopping,gift,package,present,surprise,birthday,christmas,donation,wrapped",
+      "name": "present",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M23,5H20.605A3.69,3.69,0,0,0,21,3.467,3.6,3.6,0,0,0,17.333,0,6.213,6.213,0,0,0,12,3.517,6.184,6.184,0,0,0,6.7,0c-.038,0-.076,0-.114,0A3.594,3.594,0,0,0,3,3.467v.066A3.557,3.557,0,0,0,3.379,5H1A1,1,0,0,0,0,6V9a1,1,0,0,0,1,1H23a1,1,0,0,0,1-1V6A1,1,0,0,0,23,5ZM17.364,2A1.6,1.6,0,0,1,19,3.467,1.588,1.588,0,0,1,17.425,5H13.478C14.1,3.741,15.337,2,17.364,2ZM5,3.5A1.6,1.6,0,0,1,6.614,2c2.069.008,3.281,1.731,3.91,3h-3.9A1.616,1.616,0,0,1,5,3.5Z\"></path> <path d=\"M14,12V24h5a3,3,0,0,0,3-3V12Z\" fill=\"#212121\"></path> <path d=\"M10,12H2v9a3,3,0,0,0,3,3h5Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "files,file,folder,document,format,office,paper,documents,catalog,envelope,archive",
+      "name": "folder",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M12.5,5l-3-4H1A1,1,0,0,0,0,2V20a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V6a1,1,0,0,0-1-1Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "watch,view,search,visibility,blind,eye,preview,disabled,hidden,hide,look,observe,overview,see,sight,visible,vision,invisible",
+      "name": "hide",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M23.444,10.239a22.936,22.936,0,0,0-2.492-2.948l-4.021,4.021A5.026,5.026,0,0,1,17,12a5,5,0,0,1-5,5,5.026,5.026,0,0,1-.688-.069L8.055,20.188A10.286,10.286,0,0,0,12,21c5.708,0,9.905-5.062,11.445-7.24A3.058,3.058,0,0,0,23.444,10.239Z\" fill=\"#212121\"></path><path d=\"M12,3C6.292,3,2.1,8.062.555,10.24a3.058,3.058,0,0,0,0,3.52h0a21.272,21.272,0,0,0,4.784,4.9l3.124-3.124a5,5,0,0,1,7.071-7.072L8.464,15.536l10.2-10.2A11.484,11.484,0,0,0,12,3Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M1,24a1,1,0,0,1-.707-1.707l22-22a1,1,0,0,1,1.414,1.414l-22,22A1,1,0,0,1,1,24Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "watch,view,search,visibility,eye,preview,look,observe,overview,see,sight,visible,vision",
+      "name": "view",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M23.444,10.239C21.905,8.062,17.708,3,12,3S2.1,8.062.555,10.24a3.058,3.058,0,0,0,0,3.52h0C2.1,15.938,6.292,21,12,21s9.905-5.062,11.445-7.24A3.058,3.058,0,0,0,23.444,10.239ZM12,17a5,5,0,1,1,5-5A5,5,0,0,1,12,17Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "interface,enlarge,expand,fullscreen,increase,maximize,zoom,full,scale,size,in,center,plus,screen,crop,big,magnify,explore,magnifier,magnifying,fullsize,large",
+      "name": "screen-maximize",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><rect data-color=\"color-2\" x=\"7\" y=\"8\" width=\"10\" height=\"8\" rx=\"1\"></rect><path d=\"M2,9A1,1,0,0,0,3,8V4A1,1,0,0,1,4,3H8A1,1,0,0,0,8,1H4A3,3,0,0,0,1,4V8A1,1,0,0,0,2,9Z\" fill=\"#212121\"></path><path d=\"M20,1H16a1,1,0,0,0,0,2h4a1,1,0,0,1,1,1V8a1,1,0,0,0,2,0V4A3,3,0,0,0,20,1Z\" fill=\"#212121\"></path><path d=\"M22,15a1,1,0,0,0-1,1v4a1,1,0,0,1-1,1H16a1,1,0,0,0,0,2h4a3,3,0,0,0,3-3V16A1,1,0,0,0,22,15Z\" fill=\"#212121\"></path><path d=\"M8,21H4a1,1,0,0,1-1-1V16a1,1,0,0,0-2,0v4a3,3,0,0,0,3,3H8a1,1,0,0,0,0-2Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "communication,post,send,email,mail,message,messages,contact,write,envelope,letter,mailbox,news,newsletter",
+      "name": "letter",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\" fill=\"#212121\"></path> <path data-color=\"color-2\" d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "arrow,direction,top,up,upward,file,upload,sharing,eject,screen",
+      "name": "eject",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M12.848,13.47a1.039,1.039,0,0,0-1.7,0l-5,8A1,1,0,0,0,7,23H17a1,1,0,0,0,.848-1.531Z\"></path><path d=\"M21,1H3A3,3,0,0,0,0,4V17a3,3,0,0,0,3,3H5V18H3a1,1,0,0,1-1-1V4A1,1,0,0,1,3,3H21a1,1,0,0,1,1,1V17a1,1,0,0,1-1,1H19v2h2a3,3,0,0,0,3-3V4A3,3,0,0,0,21,1Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "text,message,note,pen,edit,pencil,write,draw,create,editing,compose,editor,draft,rename",
+      "name": "pen",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M22.707,5.293l-4-4a1,1,0,0,0-1.414,0L14.5,4.086,19.914,9.5l2.793-2.793A1,1,0,0,0,22.707,5.293Z\"></path> <path d=\"M13.086,5.5,3.293,15.293a1,1,0,0,0-.241.391l-2,6A1,1,0,0,0,2,23a.987.987,0,0,0,.316-.052l6-2a1,1,0,0,0,.391-.241L18.5,10.914Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "arrow,bottom,descend,down,downward,data,download,file,input,save,share,storage,transfer",
+      "name": "download-file",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M20.986,9.835A1,1,0,0,0,20,9H16v2h3.153l1.666,10H3.181L4.847,11H8V9H4a1,1,0,0,0-.986.835l-2,12A1.011,1.011,0,0,0,1,22a1,1,0,0,0,1,1H22a1.021,1.021,0,0,0,.165-.014,1,1,0,0,0,.821-1.151Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M7.5,13a.5.5,0,0,0-.372.835l4.5,5a.5.5,0,0,0,.744,0l4.5-5A.5.5,0,0,0,16.5,13H13V2a1,1,0,0,0-2,0V13Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "download,save,storage,backup,drive,disk,diskette,floppy,floppydisk",
+      "name": "floppy-disk",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M22.707,6.707,17.293,1.293A1,1,0,0,0,16.586,1H4A3,3,0,0,0,1,4V20a3,3,0,0,0,3,3H20a3,3,0,0,0,3-3V7.414A1,1,0,0,0,22.707,6.707ZM14.5,4h1a.5.5,0,0,1,.5.5v4a.5.5,0,0,1-.5.5h-1a.5.5,0,0,1-.5-.5v-4A.5.5,0,0,1,14.5,4ZM19,12.5v6a.5.5,0,0,1-.5.5H5.5a.5.5,0,0,1-.5-.5v-6a.5.5,0,0,1,.5-.5h13A.5.5,0,0,1,19,12.5Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "interface,scale,growth,settings,meter,dashboard,speed,widget,setting,fast,gauge,indicator,metrics,odometer,performance,productivity,speedometer,bandwidth",
+      "name": "control-panel",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M22,15a1,1,0,0,1,0-2h1.949a11.941,11.941,0,0,0-2.794-6.741L19.778,7.636a1,1,0,1,1-1.414-1.414l1.377-1.377A11.941,11.941,0,0,0,13,2.051V4a1,1,0,0,1-2,0V2.051A12.006,12.006,0,0,0,.051,13H2a1,1,0,0,1,0,2H.044a12.025,12.025,0,0,0,2.7,6.637l.3.363H20.956l.3-.363A12.025,12.025,0,0,0,23.956,15Zm-8.586.414a2,2,0,0,1-2.828,0c-.6-.6-4.552-6.468-5-7.135a.5.5,0,0,1,.694-.694c.667.448,6.533,4.4,7.135,5A2,2,0,0,1,13.414,15.414Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "cloud,storage,weather,backup,ui,interface,cloudy,forecast,icloud",
+      "name": "cloud",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path fill=\"#212121\" d=\"M15,3c-3.9,0-7.2,2.4-8.5,6C6.3,9,6.2,9,6,9c-3.3,0-6,2.7-6,6s2.7,6,6,6h9c5,0,9-4,9-9S20,3,15,3z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "communication,chat,comments,conversation,dialog,forum,messages,speaking,talk,bubbles",
+      "name": "comments",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M23,6H20v7a3,3,0,0,1-3,3h-5.6l-3.6,3h6.714l4.661,3.884A.494.494,0,0,0,19.5,23a.507.507,0,0,0,.212-.047A.5.5,0,0,0,20,22.5V19h3a1,1,0,0,0,1-1V7A1,1,0,0,0,23,6Z\"></path><path d=\"M17,1H1A1,1,0,0,0,0,2V13a1,1,0,0,0,1,1H4v4.5a.5.5,0,0,0,.288.453A.507.507,0,0,0,4.5,19a.494.494,0,0,0,.32-.116L10.681,14H17a1,1,0,0,0,1-1V2A1,1,0,0,0,17,1Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "bag,shopping,ecommerce,sale,shop,checkout,basket,buy,cart,retail,trolley",
+      "name": "cart",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path fill=\"#212121\" d=\"M23,16H3l1.5-2H19c0.431,0,0.812-0.275,0.948-0.684l3-9c0.103-0.305,0.051-0.64-0.137-0.901 C22.623,3.154,22.321,3,22,3H4.414L1.707,0.293c-0.391-0.391-1.023-0.391-1.414,0s-0.391,1.023,0,1.414L3,4.414v8.252L0.2,16.4 c-0.228,0.303-0.264,0.708-0.095,1.047C0.275,17.786,0.621,18,1,18h22c0.553,0,1-0.448,1-1S23.553,16,23,16z\"></path> <circle data-color=\"color-2\" cx=\"4\" cy=\"22\" r=\"2\"></circle> <circle data-color=\"color-2\" cx=\"20\" cy=\"22\" r=\"2\"></circle></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "drive,car,vehicle,auto,transportation,automobile",
+      "name": "car-front",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M7,21H1v2a1,1,0,0,0,1,1H6a1,1,0,0,0,1-1Z\"></path><path data-color=\"color-2\" d=\"M23,21H17v2a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1Z\"></path><path d=\"M23.121,10.707,21.913,9.5,20.324,2.35A2.982,2.982,0,0,0,17.4,0H6.6A2.982,2.982,0,0,0,3.676,2.35L2.087,9.5.879,10.707A2.978,2.978,0,0,0,0,12.828V18a1,1,0,0,0,1,1H23a1,1,0,0,0,1-1V12.828A2.978,2.978,0,0,0,23.121,10.707ZM5.628,2.783A.994.994,0,0,1,6.6,2H17.4a.994.994,0,0,1,.976.783L19.754,9H4.246ZM4.5,16A1.5,1.5,0,1,1,6,14.5,1.5,1.5,0,0,1,4.5,16Zm15,0A1.5,1.5,0,1,1,21,14.5,1.5,1.5,0,0,1,19.5,16Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "media,photo,camera,multimedia,digital",
+      "name": "camera-2",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M21,4H19.618L17.9.553A1,1,0,0,0,17,0H11a1,1,0,0,0-.895.553L8.382,4H3A3,3,0,0,0,0,7V20a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V7A3,3,0,0,0,21,4ZM6,21H4V6H6Zm8-3a5,5,0,1,1,5-5A5,5,0,0,1,14,18Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "day,schedule,time,calendar,appointment,event,plan,planning,date,month,timetable,year",
+      "name": "calendar-2",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M19,3V1a1,1,0,0,0-2,0V3Z\"></path> <path data-color=\"color-2\" d=\"M7,3V1A1,1,0,0,0,5,1V3Z\"></path> <path d=\"M21,23H3a3,3,0,0,1-3-3V7A3,3,0,0,1,3,4H21a3,3,0,0,1,3,3V20A3,3,0,0,1,21,23ZM22,9H2V20a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "achievement,award,ribbon,label,reading,study,bookmark,favorite,favourite,mark,marker,like,bookmarking,marked,preference,saved",
+      "name": "bookmark",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M19,0H5A3,3,0,0,0,2,3V23.5a.5.5,0,0,0,.767.423L12,18.092l9.233,5.831A.493.493,0,0,0,21.5,24a.5.5,0,0,0,.5-.5V3A3,3,0,0,0,19,0Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "holidays,ring,alarm,sound,alert,notification,christmas,bell,buzz,ringing,ringtone,wake",
+      "name": "alarm",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M21.855,18.482A12.85,12.85,0,0,1,20,11.994V8.006a8,8,0,0,0-16,0v3.982a12.851,12.851,0,0,1-1.855,6.494A1,1,0,0,0,3,20H21a1,1,0,0,0,.855-1.518Z\" fill=\"#212121\"></path> <path data-color=\"color-2\" d=\"M13.007,23.825a3,3,0,0,0,1.819-1.819H9.174A3,3,0,0,0,13.007,23.825Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "shopping,ecommerce,sale,shop,checkout,basket,buy,cart,groceries,picnic,retail",
+      "name": "basket",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M2,20a3,3,0,0,0,3,3H19a3,3,0,0,0,3-3V11H2Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M23,7H19.58L15.868.5a1,1,0,1,0-1.736.992L17.277,7H6.723L9.868,1.5A1,1,0,1,0,8.132.5L4.42,7H1A1,1,0,0,0,1,9H23a1,1,0,0,0,0-2Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "bag,briefcase,shopping,ecommerce,sale,shop,purse,buy,cart,handbag",
+      "name": "shopping-bag",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M19.694,24H4.306a3,3,0,0,1-2.97-3.425L3.01,8.858A1,1,0,0,1,4,8H20a1,1,0,0,1,.99.858l1.674,11.717A3,3,0,0,1,19.694,24Z\" fill=\"#212121\"></path><path data-color=\"color-2\" d=\"M9,6V5a3,3,0,1,1,6,0V6h2V5A5,5,0,0,0,7,5V6Z\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "seat,furniture,chair,movie,armchair,living,lounge,room,sofa,relax,seating,cinema",
+      "name": "armchair",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path data-color=\"color-2\" d=\"M7,12.5V13H17v-.5a4.49,4.49,0,0,1,4-4.449V3a3,3,0,0,0-3-3H6A3,3,0,0,0,3,3V8.051A4.49,4.49,0,0,1,7,12.5Z\"></path><path d=\"M21.5,10A2.5,2.5,0,0,0,19,12.5V15H5V12.5a2.5,2.5,0,0,0-5,0V21a1,1,0,0,0,1,1H3v2H5V22H19v2h2V22h2a1,1,0,0,0,1-1V12.5A2.5,2.5,0,0,0,21.5,10Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "files,file,storage,ui,interface,inbox,folder,organize,box,document,furniture,collection,documents,editor,archive,container,drawer,cabinet,handle,safebox",
+      "name": "archive",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M20,1H4A3,3,0,0,0,1,4V20a3,3,0,0,0,3,3H20a3,3,0,0,0,3-3V4A3,3,0,0,0,20,1ZM4,3H20a1,1,0,0,1,1,1V15H16a1,1,0,0,0-1,1v2H9V16a1,1,0,0,0-1-1H3V4A1,1,0,0,1,4,3Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "sign,error,danger,alert,attention,caution,exclamation,problem,warning,red",
+      "name": "warning-sign",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><path d=\"M23.641,18.485,14.732,1.643a3.093,3.093,0,0,0-5.464,0L.359,18.485A3.079,3.079,0,0,0,3.092,23H20.908a3.079,3.079,0,0,0,2.733-4.515ZM12,20a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12,20Zm1-5H11l-.5-8h3Z\" fill=\"#212121\"></path></g></svg>",
+      "set_id": 1
+    },
+    {
+      "style": "glyph",
+      "width": 24,
+      "height": 24,
+      "tags": "user,profile,account,avatar,person,accessibility,users,member,human,accessible,fair",
+      "name": "accessibility",
+      "content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" height=\"24\" width=\"24\"><g class=\"nc-icon-wrapper\" stroke=\"none\" fill=\"#212121\"><circle data-color=\"color-2\" cx=\"12\" cy=\"3\" r=\"3\"></circle><polygon points=\"23 7 1 7 1 9 9 9 9 24 11 24 11 16 13 16 13 24 15 24 15 9 23 9 23 7\" fill=\"#212121\"></polygon></g></svg>",
+      "set_id": 1
+    }
+  ],
+  "sets": [],
+  "groups": []
+}
